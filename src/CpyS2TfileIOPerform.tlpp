@@ -316,12 +316,14 @@ return(dna.tech.timeCalc():MiliSecsToTime(nTotalMS))
 static procedure __TST_FILECOPY(oFileLogger as object,jFile as json,jPerformCopy as json)
 
     local cFile:=jFile["File"] as character
-    local cTempPath:=GetTempPath()+ProcName()+"\" as character
+    local cTempPath:=GetTempPath()+ProcName()+"\\" as character
     local cFileTarget as character
 
     local jSplitPath as json
 
     local lCpyS2T as logical
+
+    cTempPath:={"TempPath":StrTran(cTempPath,"\\",BACK_SLASH)}["TempPath"]
 
     FWMakeDir(cTempPath,.F.)
 
@@ -349,12 +351,14 @@ return
 static procedure __TST_CPYS2T(oFileLogger as object,jFile as json,jPerformCopy as json)
 
     local cFile:=jFile["File"] as character
-    local cTempPath:=GetTempPath()+ProcName()+"\" as character
+    local cTempPath:=GetTempPath()+ProcName()+"\\" as character
     local cFileTarget as character
 
     local jSplitPath as json
 
     local lCpyS2T as logical
+
+    cTempPath:={"TempPath":StrTran(cTempPath,"\\",BACK_SLASH)}["TempPath"]
 
     FWMakeDir(cTempPath,.F.)
 
@@ -382,12 +386,14 @@ return
 static procedure __TST_CPYS2TZip(oFileLogger as object,jFile as json,jPerformCopy as json)
 
     local cFile:=jFile["File"] as character
-    local cTempPath:=GetTempPath()+ProcName()+"\" as character
+    local cTempPath:=GetTempPath()+ProcName()+"\\" as character
     local cFileTarget
 
     local jSplitPath as json
 
     local lCpyS2T as logical
+
+    cTempPath:={"TempPath":StrTran(cTempPath,"\\",BACK_SLASH)}["TempPath"]
 
     FWMakeDir(cTempPath,.F.)
 
@@ -420,7 +426,7 @@ static procedure __TST_GETDATAFROMSERVERWITHZIP(oFileLogger as object,jPerformCo
 
     local cZipKey as character
     local cErrorMsg as character
-    local cTempPath:=GetTempPath()+ProcName()+"\" as character
+    local cTempPath:=GetTempPath()+ProcName()+"\\" as character
     local cTargetPath:=StrTran(__SYSTEM_ROTULOS_PATH__,"\\",BACK_SLASH) as character
 
     local lCpyS2T as logical
@@ -428,6 +434,8 @@ static procedure __TST_GETDATAFROMSERVERWITHZIP(oFileLogger as object,jPerformCo
     local nFile as numeric
     local nFiles as numeric
     local nSizeFiles as numeric
+
+    cTempPath:={"TempPath":StrTran(cTempPath,"\\",BACK_SLASH)}["TempPath"]
 
     FWMakeDir(cTempPath,.F.)
 
