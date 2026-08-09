@@ -1,0 +1,13 @@
+*.upx
+*.bak
+*.bkp
+*.tmp
+*.temp
+*.log
+*.scc
+*.old
+*.err*
+*.ppx_*
+.vscode
+_commit.txt
+*.ppo

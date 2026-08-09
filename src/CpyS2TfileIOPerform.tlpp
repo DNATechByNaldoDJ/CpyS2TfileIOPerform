@@ -86,7 +86,7 @@ static procedure __CpyS2TCopyIOPerform(oFWMsgRunSay)
     jFiles:=JSONObject():New()
     jFiles:Set(aPerform)
 
-    cPathLogger:="\\tmp\\
+    cPathLogger:="\\tmp\\"
     cFileLogger:=cPathLogger+dna.tech.fileTools():GetNewTmpFileName()+".log"
     cFileLogger:={"FileLogger":StrTran(cFileLogger,"\\",BACK_SLASH)}["FileLogger"]
     oFileLogger:=dna.tech.FileLogger():New(cFileLogger)
