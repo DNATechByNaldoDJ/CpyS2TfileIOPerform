@@ -1,0 +1,467 @@
+#include "totvs.ch"
+#include "fileio.ch"
+#include "directry.ch"
+#include "parmtype.ch"
+#include "jsonarray.ch"
+
+#IFNDEF BACK_SLASH
+    #define BACK_SLASH chr(92)
+#ENDIF
+
+#IFNDEF FORWARD_SLASH
+    #define FORWARD_SLASH chr(47)
+    #IFNDEF SLASH
+        #define SLASH FORWARD_SLASH
+    #ENDIF
+#ENDIF
+
+#define __SYSTEM_ROTULOS_PATH__ "\\system\\rotulos\\"
+
+using namespace dna.tech
+
+procedure u_CpS2TFIO()
+    if (FindClass("DNA.TECH.FILETOOLS"))
+        __cInternet:=nil
+        MainExec():MainExecute({||SetModulo("SIGAESP","ESP"),U_CpyS2Tcopyioperform()},ProcName())
+    endif
+return
+
+procedure U_CpyS2Tcopyioperform()
+    __cInternet:=nil
+    FWMsgRun(nil,{|oFWMsgRunSay|__CpyS2TCopyIOPerform(oFWMsgRunSay)},"CPYS2TCopyIOPerform","Aguarde...")
+return
+
+static procedure __CpyS2TCopyIOPerform(oFWMsgRunSay)
+
+    local aFiles as array
+    local aPerform as array
+
+    local cLine as character
+    local cFile as character
+    local cPerform as character
+    local cFileCopy as character
+    local cFileLogger as character
+    local cLocalPathLogger as character
+    local cLocalFileLogger as character
+
+    local cStopWathIntervalI as character
+    local cStopWathIntervalFile as character
+    local cStopWathIntervalFileFunction as character
+
+    local jFiles as json
+    local jPerform as json
+    local jSplitPath as json
+
+    local lCopyFile as logical
+    local lExecuteProc as logical
+    local lGETDATAFROMSERVERWITHZIP:=.T. as logical
+
+    local nFile as numeric
+    local nFiles as numeric
+    local nPerform as numeric
+    local nSizeFiles:=0 as numeric
+
+    local oStopWatch:=dna.tech.StopWatch():New("__CpyS2TCopyIOPerform") as object
+    local oFileLogger as object
+
+    local i as numeric
+    local n1MB:=(1024^2) as numeric
+
+    oStopWatch:Start()
+
+    aPerform:=Array(0)
+    aFiles:=Directory({"FileMask":StrTran(__SYSTEM_ROTULOS_PATH__+"*.*","\\",BACK_SLASH)}["FileMask"])
+    aSort(@aFiles,nil,nil,{|x,y|x[F_SIZE]<y[F_SIZE]})
+
+    nFiles:=Len(aFiles)
+    for nFile:=1 to nFiles
+        //Call: 0-Not Call;1=Call 1"
+        cFile:={"File":StrTran(__SYSTEM_ROTULOS_PATH__+aFiles[nFile][F_NAME],"\\",BACK_SLASH)}["File"]
+        if ((File(cFile)).and.(aFiles[nFile][F_SIZE]>=n1MB))
+            nSizeFiles+=aFiles[nFile][F_SIZE]
+            aAdd(aPerform,{"File":cFile,"Process":.T.,"Call":1,"FileSize":aFiles[nFile][F_SIZE]})
+        endif
+    next nFile
+    FWFreeArray(@aFiles)
+    jFiles:=JSONObject():New()
+    jFiles:Set(aPerform)
+
+    cPathLogger:="\\tmp\\
+    cFileLogger:=cPathLogger+dna.tech.fileTools():GetNewTmpFileName()+".log"
+    cFileLogger:={"FileLogger":StrTran(cFileLogger,"\\",BACK_SLASH)}["FileLogger"]
+    oFileLogger:=dna.tech.FileLogger():New(cFileLogger)
+
+    //Call: 0-Not Call;1=Call
+    beginContent var cPerform
+{
+     "FILECOPY"                 :  {"Owner":"DNATech","FileCopy":"FILECOPY"                ,"Call":1,"TimeProcStart":"","TimeProcEnd":"","PartialTimeProc":0,"TotalTimeProc":0,"PartialTimeCopy":0,"TotalTimeCopy":0,"ProcStart":0,"ProcEnd":0,"FileSize":0}
+    ,"CPYS2T"                   :  {"Owner":"TOTVS  ","FileCopy":"CPYS2T"                  ,"Call":1,"TimeProcStart":"","TimeProcEnd":"","PartialTimeProc":0,"TotalTimeProc":0,"PartialTimeCopy":0,"TotalTimeCopy":0,"ProcStart":0,"ProcEnd":0,"FileSize":0}
+    ,"CPYS2TZip"                :  {"Owner":"TOTVS  ","FileCopy":"CPYS2TZip"               ,"Call":1,"TimeProcStart":"","TimeProcEnd":"","PartialTimeProc":0,"TotalTimeProc":0,"PartialTimeCopy":0,"TotalTimeCopy":0,"ProcStart":0,"ProcEnd":0,"FileSize":0}
+    ,"GETDATAFROMSERVERWITHZIP" :  {"Owner":"DNATech","FileCopy":"GETDATAFROMSERVERWITHZIP","Call":1,"TimeProcStart":"","TimeProcEnd":"","PartialTimeProc":0,"TotalTimeProc":0,"PartialTimeCopy":0,"TotalTimeCopy":0,"ProcStart":0,"ProcEnd":0,"FileSize":0}
+}
+    endContent
+
+    jPerform:=JSONObject():New()
+    jPerform:FromJSON(cPerform)
+    jPerform["GETDATAFROMSERVERWITHZIP"]["FileSize"]:=nSizeFiles
+    aPerform:=jPerform:GetNames()
+
+    oStopWatch:StartInterval("Main")
+
+    nFiles:=Len(jFiles)
+    nPerform:=Len(aPerform)
+    for nFile:=1 to Len(jFiles)
+        *****************************************************************
+        if (!jFiles[nFile]["Process"])
+            loop
+        endif
+        *****************************************************************
+        cLine:=""
+        cFile:=jFiles[nFile]["File"]
+        cStopWathIntervalFile:=cFile
+        oStopWatch:GetInterval("Main"):StartInterval(@cStopWathIntervalFile)
+        *****************************************************************
+        lExecuteProc:=(jFiles[nFile]["Call"]==1)
+        if (!lExecuteProc)
+            loop
+        endif
+        *****************************************************************
+        oFileLogger:WriteLine("FileName["+cFile+"]")
+        *****************************************************************
+        for i:=1 to Len(aPerform)
+            cFileCopy:=aPerform[i]
+            *****************************************************************
+            //Call: 0-Not Call;1=Call"
+            lExecuteProc:=(jFiles[nFile]["Call"]==1)
+            *****************************************************************
+            if (!lExecuteProc)
+                loop
+            endif
+            *****************************************************************
+            jPerform[cFileCopy]["FileCopy"]:=cFileCopy
+            *****************************************************************
+            if (cFileCopy!="GETDATAFROMSERVERWITHZIP")
+                jPerform[cFileCopy]["FileSize"]:=jFiles[nFile]["FileSize"]
+            endif
+            *****************************************************************
+            jPerform[cFileCopy]["FileSizeCopy"]:=0
+            *****************************************************************
+            if (cFileCopy=="GETDATAFROMSERVERWITHZIP")
+                if (!lGETDATAFROMSERVERWITHZIP)
+                    loop
+                endif
+            endif
+            *****************************************************************
+            oFWMsgRunSay:SetText(cFileCopy+"["+tlpp.ToStr(nFile)+"/"+tlpp.ToStr(nFiles)+"]["+tlpp.ToStr(i)+"/"+tlpp.ToStr(nPerform)+"]["+tlpp.ToStr(jPerform[cFileCopy]["FileSize"])+"]")
+            ProcessMessages()
+            *****************************************************************
+            cStopWathIntervalI:=tlpp.ToStr(i)
+            cStopWathIntervalFileFunction:=cStopWathIntervalI
+            cStopWathIntervalFileFunction+="_"
+            cStopWathIntervalFileFunction+="__TST"
+            cStopWathIntervalFileFunction+="_"
+            cStopWathIntervalFileFunction+=cFileCopy
+            *****************************************************************
+            oStopWatch:GetInterval("Main"):GetInterval(@cStopWathIntervalFile):StartInterval(@cStopWathIntervalFileFunction)
+            jPerform[cFileCopy]["StopWatch"]:=oStopWatch
+            *****************************************************************
+            if (cFileCopy=="FILECOPY")
+                __TST_FILECOPY(oFileLogger,jFiles[nFile],jPerform[cFileCopy])
+            elseif (cFileCopy=="CPYS2T")
+                __TST_CPYS2T(oFileLogger,jFiles[nFile],jPerform[cFileCopy])
+            elseif (cFileCopy=="CPYS2TZip")
+                __TST_CPYS2TZip(oFileLogger,jFiles[nFile],jPerform[cFileCopy])
+            elseif ((cFileCopy=="GETDATAFROMSERVERWITHZIP").and.(lGETDATAFROMSERVERWITHZIP))
+                nPerform--
+                lGETDATAFROMSERVERWITHZIP:=.F.
+                __TST_GETDATAFROMSERVERWITHZIP(oFileLogger,jPerform[cFileCopy],n1MB)
+            endif
+            *****************************************************************
+            oStopWatch:GetInterval("Main"):GetInterval(@cStopWathIntervalFile):StopInterval(@cStopWathIntervalFileFunction)
+        next j
+        *****************************************************************
+        oStopWatch:GetInterval("Main"):StopInterval(@cStopWathIntervalFile)
+        *****************************************************************
+        oFileLogger:WriteLine("")
+    next nFile
+
+    oStopWatch:Stop()
+
+    __SendToLogger(oFileLogger,jPerform,2)
+
+    oFileLogger:WriteLine("")
+    oFileLogger:WriteLine("************************************************************************************")
+    oFileLogger:WriteLine("")
+    oFileLogger:WriteLine(oStopWatch:PrintReport())
+
+    oStopWatch:Reset()
+    FreeObj(@oStopWatch)
+
+    oFileLogger:Close()
+    FreeObj(@oFileLogger)
+
+    cLocalPathLogger:="c:"+{"PathLogger":StrTran(cPathLogger,"\\",BACK_SLASH)}["PathLogger"]
+    if (dna.tech.DirTools():MakeFileDir(cLocalPathLogger))
+        cLocalFileLogger:=cLocalPathLogger
+        jSplitPath:=dna.tech.fileTools():SplitPath(cFileLogger)
+        cLocalFileLogger+=jSplitPath["file"]
+        cLocalFileLogger+=jSplitPath["ext"]
+        FreeObj(@jSplitPath)
+        lCopyFile:=dna.tech.fileTools():FileCopy(cFileLogger,cLocalFileLogger)
+        if (!lCopyFile)
+            EEcView(dna.tech.fileTools():FullContentTextFile(cFileLogger),cFileLogger)
+        else
+            EEcView(dna.tech.fileTools():FullContentTextFile(cLocalFileLogger),cLocalFileLogger)
+        endif
+    else
+        EEcView(fileTools():ReadMemo(cFileLogger),cFileLogger)
+    endif
+
+    fErase(cFileLogger)
+    FWFreeArray(@jFiles)
+
+    FWFreeArray(@aPerform)
+
+    FreeObj(@jPerform)
+
+return
+
+static function __HashLoggerFile(cFile as character)
+    local jSplitPath as json
+    jSplitPath:=dna.tech.fileTools():SplitPath(cFile)
+    cFile:={"Path":StrTran("\\tmp\\","\\",BACK_SLASH)}["Path"]
+    cFile+=jSplitPath["file"]
+    cFile+=jSplitPath["ext"]
+    FreeObj(@jSplitPath)
+    dna.tech.DirTools():MakeFileDir(cFile)
+return(cFile)
+
+static procedure __SendToLogger(oFileLogger as object,jLogger as json,nOption as numeric)
+
+    local aLoggerItem as array
+    local aLoggerPerform as array
+
+    local cName as character
+    local cFileCopy as character
+
+    local jLoggerOut as json
+
+    local i,j as numeric
+
+    if (nOption==1)
+
+        cFileCopy:=jLogger["FileCopy"]
+
+        jLogger["PartialTimeProc"]:=(jLogger["ProcEnd"]-jLogger["ProcStart"])
+        jLogger["PartialTimeCopy"]:=jLogger["PartialTimeProc"]
+
+        jLogger["TotalTimeProc"]+=jLogger["PartialTimeProc"]
+        jLogger["TotalTimeCopy"]+=jLogger["PartialTimeCopy"]
+
+        jLoggerOut:=dna.tech.JSONObjectClone():CloneJSON(jLogger)
+        jLoggerOut:DelName("StopWatch")
+
+        jLoggerOut["FileCopy"]:=PadR(jLoggerOut["FileCopy"],24)
+        jLoggerOut["Owner"]:=PadR(jLoggerOut["Owner"],7)
+
+        aLoggerItem:=jLoggerOut:GetNames()
+            for i:=1 to Len(aLoggerItem)
+                cName:=aLoggerItem[i]
+                if ("Total"$cName)
+                    jLoggerOut:DelName(cName)
+                elseif ("PartialTime"$cName)
+                    jLoggerOut[cName]:=__MiliSecondsToTime(jLoggerOut[cName])
+                endif
+            next i
+        FWFreeArray(@aLoggerItem)
+
+    elseif (nOption==2)
+
+        jLoggerOut:=dna.tech.JSONObjectClone():CloneJSON(jLogger)
+
+        aLoggerPerform:=jLoggerOut:GetNames()
+        for i:=1 to Len(aLoggerPerform)
+            cFileCopy:=aLoggerPerform[i]
+            jLoggerOut[cFileCopy]:DelName("StopWatch")
+            if (jLoggerOut[cFileCopy]["TotalTimeCopy"]==0)
+                jLoggerOut:DelName(cFileCopy)
+                loop
+            endif
+            aLoggerItem:=jLoggerOut[cFileCopy]:GetNames()
+            for j:=1 to Len(aLoggerItem)
+                cName:=aLoggerItem[j]
+                if (!"Total"$cName)
+                    jLoggerOut[cFileCopy]:DelName(cName)
+                    loop
+                endif
+                if ("TotalElapTimeCopy"$cName)
+                    jLoggerOut[cFileCopy][cName]:=__MiliSecondsToTime(jLoggerOut[cFileCopy][cName])
+                endif
+            next j
+            jLoggerOut[cFileCopy]["TotalElapTimeCopy"]:=__MiliSecondsToTime(jLoggerOut[cFileCopy]["TotalTimeCopy"])
+            FWFreeArray(@aLoggerItem)
+        next i
+
+    endif
+
+    oFileLogger:WriteLine(jLoggerOut:ToJSON())
+
+    FreeObj(@jLoggerOut)
+
+return
+
+static function __MiliSecondsToTime(nTotalMS as numeric) as character
+return(dna.tech.timeCalc():MiliSecsToTime(nTotalMS))
+
+static procedure __TST_FILECOPY(oFileLogger as object,jFile as json,jPerformCopy as json)
+
+    local cFile:=jFile["File"] as character
+    local cTempPath:=GetTempPath()+ProcName()+"\" as character
+    local cFileTarget as character
+
+    local jSplitPath as json
+
+    local lCpyS2T as logical
+
+    FWMakeDir(cTempPath,.F.)
+
+    jPerformCopy["ProcStart"]:=TimeCounter()
+    jPerformCopy["TimeProcStart"]:=Time()
+
+    lCpyS2T:=dna.tech.fileTools():FileCopy(cFile,cTempPath)
+    jPerformCopy["CpyS2T"]:=lCpyS2T
+    if (lCpyS2T)
+        jSplitPath:=dna.tech.fileTools():SplitPath(cFile)
+        cFileTarget:=cTempPath
+        cFileTarget+=jSplitPath["file"]
+        cFileTarget+=jSplitPath["ext"]
+        FreeObj(@jSplitPath)
+        jPerformCopy["FileSizeCopy"]:=dna.tech.fileTools():FileSize(cFileTarget)
+    endif
+
+    jPerformCopy["TimeProcEnd"]:=Time()
+    jPerformCopy["ProcEnd"]:=TimeCounter()
+
+    __SendToLogger(oFileLogger,jPerformCopy,1)
+
+return
+
+static procedure __TST_CPYS2T(oFileLogger as object,jFile as json,jPerformCopy as json)
+
+    local cFile:=jFile["File"] as character
+    local cTempPath:=GetTempPath()+ProcName()+"\" as character
+    local cFileTarget as character
+
+    local jSplitPath as json
+
+    local lCpyS2T as logical
+
+    FWMakeDir(cTempPath,.F.)
+
+    jPerformCopy["ProcStart"]:=TimeCounter()
+    jPerformCopy["TimeProcStart"]:=Time()
+
+    lCpyS2T:=CPYS2T(cFile,cTempPath,.F.)
+    jPerformCopy["CpyS2T"]:=lCpyS2T
+    if (lCpyS2T)
+        jSplitPath:=dna.tech.fileTools():SplitPath(cFile)
+        cFileTarget:=cTempPath
+        cFileTarget+=jSplitPath["file"]
+        cFileTarget+=jSplitPath["ext"]
+        FreeObj(@jSplitPath)
+        jPerformCopy["FileSizeCopy"]:=dna.tech.fileTools():FileSize(cFileTarget)
+    endif
+
+    jPerformCopy["TimeProcEnd"]:=Time()
+    jPerformCopy["ProcEnd"]:=TimeCounter()
+
+    __SendToLogger(oFileLogger,jPerformCopy,1)
+
+return
+
+static procedure __TST_CPYS2TZip(oFileLogger as object,jFile as json,jPerformCopy as json)
+
+    local cFile:=jFile["File"] as character
+    local cTempPath:=GetTempPath()+ProcName()+"\" as character
+    local cFileTarget
+
+    local jSplitPath as json
+
+    local lCpyS2T as logical
+
+    FWMakeDir(cTempPath,.F.)
+
+    jPerformCopy["ProcStart"]:=TimeCounter()
+    jPerformCopy["TimeProcStart"]:=Time()
+
+    lCpyS2T:=CPYS2T(cFile,cTempPath,.T.)
+    jPerformCopy["CpyS2T"]:=lCpyS2T
+    if (lCpyS2T)
+        jSplitPath:=dna.tech.fileTools():SplitPath(cFile)
+        cFileTarget:=cTempPath
+        cFileTarget+=jSplitPath["file"]
+        cFileTarget+=jSplitPath["ext"]
+        FreeObj(@jSplitPath)
+        jPerformCopy["FileSizeCopy"]:=dna.tech.fileTools():FileSize(cFileTarget)
+    endif
+
+    jPerformCopy["TimeProcEnd"]:=Time()
+    jPerformCopy["ProcEnd"]:=TimeCounter()
+
+    __SendToLogger(oFileLogger,jPerformCopy,1)
+
+return
+
+static procedure __TST_GETDATAFROMSERVERWITHZIP(oFileLogger as object,jPerformCopy as json,n1MB as numeric)
+
+    local aFiles as array
+
+    local bNotSendData as codeblock
+
+    local cZipKey as character
+    local cErrorMsg as character
+    local cTempPath:=GetTempPath()+ProcName()+"\" as character
+    local cTargetPath:=StrTran(__SYSTEM_ROTULOS_PATH__,"\\",BACK_SLASH) as character
+
+    local lCpyS2T as logical
+
+    local nFile as numeric
+    local nFiles as numeric
+    local nSizeFiles as numeric
+
+    FWMakeDir(cTempPath,.F.)
+
+    jPerformCopy["ProcStart"]:=TimeCounter()
+    jPerformCopy["TimeProcStart"]:=Time()
+
+    cZipKey:=dna.tech.BraidedEncrypt():GenPWD(15)
+    bNotSendData:={|cPathFile,cType,aData|FilterZipData(cPathFile,cType,aData,cTargetPath,n1MB)}
+    lCpyS2T:=dna.tech.fileTools():GetDataFromServerWithZip(cTargetPath,cTempPath,bNotSendData,@cErrorMsg,@cZipKey)
+    jPerformCopy["CpyS2T"]:=lCpyS2T
+
+    jPerformCopy["TimeProcEnd"]:=Time()
+    jPerformCopy["ProcEnd"]:=TimeCounter()
+
+    if (lCpyS2T)
+        aFiles:=Directory(cTempPath+"*.*")
+        nFiles:=Len(aFiles)
+        nSizeFiles:=0
+        for nFile:=1 to nFiles
+            nSizeFiles+=aFiles[nFile][F_SIZE]
+        next nFile
+        FWFreeArray(@aFiles)
+        jPerformCopy["FileSizeCopy"]:=nSizeFiles
+    endif
+
+    __SendToLogger(oFileLogger,jPerformCopy,1)
+
+return
+
+static function FilterZipData(cPathFile as character,cType as character,aData as array,cTargetPath as character,n1MB as numeric) as logical
+    local lNotSendData:=.F. as logical
+    if (cType=="D")
+        lNotSendData:=(cPathFile!=cTargetPath)
+    elseif (cType=="A")
+        lNotSendData:=(aData[F_SIZE]<n1MB)
+    endif
+return(lNotSendData)
