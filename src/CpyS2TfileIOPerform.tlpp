@@ -26,7 +26,7 @@ procedure u_CpS2TFIO()
     endif
 return
 
-procedure U_CpyS2Tcopyioperform()
+procedure U_CpyS2TCopyIOPerform()
     __cInternet:=nil
     FWMsgRun(nil,{|oFWMsgRunSay|__CpyS2TCopyIOPerform(oFWMsgRunSay)},"CPYS2TCopyIOPerform","Aguarde...")
 return
@@ -94,10 +94,10 @@ static procedure __CpyS2TCopyIOPerform(oFWMsgRunSay)
     //Call: 0-Not Call;1=Call
     beginContent var cPerform
 {
-     "FILECOPY"                 :  {"Owner":"DNATech","FileCopy":"FILECOPY"                ,"Call":1,"TimeProcStart":"","TimeProcEnd":"","PartialTimeProc":0,"TotalTimeProc":0,"PartialTimeCopy":0,"TotalTimeCopy":0,"ProcStart":0,"ProcEnd":0,"FileSize":0}
-    ,"CPYS2T"                   :  {"Owner":"TOTVS  ","FileCopy":"CPYS2T"                  ,"Call":1,"TimeProcStart":"","TimeProcEnd":"","PartialTimeProc":0,"TotalTimeProc":0,"PartialTimeCopy":0,"TotalTimeCopy":0,"ProcStart":0,"ProcEnd":0,"FileSize":0}
-    ,"CPYS2TZip"                :  {"Owner":"TOTVS  ","FileCopy":"CPYS2TZip"               ,"Call":1,"TimeProcStart":"","TimeProcEnd":"","PartialTimeProc":0,"TotalTimeProc":0,"PartialTimeCopy":0,"TotalTimeCopy":0,"ProcStart":0,"ProcEnd":0,"FileSize":0}
-    ,"GETDATAFROMSERVERWITHZIP" :  {"Owner":"DNATech","FileCopy":"GETDATAFROMSERVERWITHZIP","Call":1,"TimeProcStart":"","TimeProcEnd":"","PartialTimeProc":0,"TotalTimeProc":0,"PartialTimeCopy":0,"TotalTimeCopy":0,"ProcStart":0,"ProcEnd":0,"FileSize":0}
+     "FILECOPY"                 :  {"Owner":"DNATech","FileCopy":"FILECOPY"                ,"Call":1,"TimeProcStart":"","TimeProcEnd":"","PartialTimeProc":0,"TotalTimeProc":0,"PartialTimeCopy":0,"TotalTimeCopy":0,"ProcStart":0,"ProcEnd":0,"FileSize":0,"TotalFileSize":0}
+    ,"CPYS2T"                   :  {"Owner":"TOTVS  ","FileCopy":"CPYS2T"                  ,"Call":1,"TimeProcStart":"","TimeProcEnd":"","PartialTimeProc":0,"TotalTimeProc":0,"PartialTimeCopy":0,"TotalTimeCopy":0,"ProcStart":0,"ProcEnd":0,"FileSize":0,"TotalFileSize":0}
+    ,"CPYS2TZip"                :  {"Owner":"TOTVS  ","FileCopy":"CPYS2TZip"               ,"Call":1,"TimeProcStart":"","TimeProcEnd":"","PartialTimeProc":0,"TotalTimeProc":0,"PartialTimeCopy":0,"TotalTimeCopy":0,"ProcStart":0,"ProcEnd":0,"FileSize":0,"TotalFileSize":0}
+    ,"GETDATAFROMSERVERWITHZIP" :  {"Owner":"DNATech","FileCopy":"GETDATAFROMSERVERWITHZIP","Call":1,"TimeProcStart":"","TimeProcEnd":"","PartialTimeProc":0,"TotalTimeProc":0,"PartialTimeCopy":0,"TotalTimeCopy":0,"ProcStart":0,"ProcEnd":0,"FileSize":0,"TotalFileSize":0}
 }
     endContent
 
@@ -226,16 +226,6 @@ static procedure __CpyS2TCopyIOPerform(oFWMsgRunSay)
 
 return
 
-static function __HashLoggerFile(cFile as character)
-    local jSplitPath as json
-    jSplitPath:=dna.tech.fileTools():SplitPath(cFile)
-    cFile:={"Path":StrTran("\\tmp\\","\\",BACK_SLASH)}["Path"]
-    cFile+=jSplitPath["file"]
-    cFile+=jSplitPath["ext"]
-    FreeObj(@jSplitPath)
-    dna.tech.DirTools():MakeFileDir(cFile)
-return(cFile)
-
 static procedure __SendToLogger(oFileLogger as object,jLogger as json,nOption as numeric)
 
     local aLoggerItem as array
@@ -339,6 +329,7 @@ static procedure __TST_FILECOPY(oFileLogger as object,jFile as json,jPerformCopy
         cFileTarget+=jSplitPath["ext"]
         FreeObj(@jSplitPath)
         jPerformCopy["FileSizeCopy"]:=dna.tech.fileTools():FileSize(cFileTarget)
+        jPerformCopy["TotalFileSize"]+=jPerformCopy["FileSizeCopy"]
     endif
 
     jPerformCopy["TimeProcEnd"]:=Time()
@@ -374,6 +365,7 @@ static procedure __TST_CPYS2T(oFileLogger as object,jFile as json,jPerformCopy a
         cFileTarget+=jSplitPath["ext"]
         FreeObj(@jSplitPath)
         jPerformCopy["FileSizeCopy"]:=dna.tech.fileTools():FileSize(cFileTarget)
+        jPerformCopy["TotalFileSize"]+=jPerformCopy["FileSizeCopy"]
     endif
 
     jPerformCopy["TimeProcEnd"]:=Time()
@@ -409,6 +401,7 @@ static procedure __TST_CPYS2TZip(oFileLogger as object,jFile as json,jPerformCop
         cFileTarget+=jSplitPath["ext"]
         FreeObj(@jSplitPath)
         jPerformCopy["FileSizeCopy"]:=dna.tech.fileTools():FileSize(cFileTarget)
+        jPerformCopy["TotalFileSize"]+=jPerformCopy["FileSizeCopy"]
     endif
 
     jPerformCopy["TimeProcEnd"]:=Time()
@@ -459,6 +452,7 @@ static procedure __TST_GETDATAFROMSERVERWITHZIP(oFileLogger as object,jPerformCo
         next nFile
         FWFreeArray(@aFiles)
         jPerformCopy["FileSizeCopy"]:=nSizeFiles
+        jPerformCopy["TotalFileSize"]+=jPerformCopy["FileSizeCopy"]
     endif
 
     __SendToLogger(oFileLogger,jPerformCopy,1)
