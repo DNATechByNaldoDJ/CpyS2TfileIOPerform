@@ -1,207 +1,207 @@
 FileName[\system\rotulos\2-022222222_130X115_BAIXA.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:43:02","TimeProcEnd":"19:43:05","PartialTimeProc":"00:00:02:34.368071","PartialTimeCopy":"00:00:02:34.368071","ProcStart":3845504881.59963,"ProcEnd":3845507225.28034,"FileSize":1049065,"FileSizeCopy":1049065,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:43:08","TimeProcEnd":"19:43:14","PartialTimeProc":"00:00:05:64.128713","PartialTimeCopy":"00:00:05:64.128713","ProcStart":3845510928.43565,"ProcEnd":3845516569.72277,"FileSize":1049065,"FileSizeCopy":1049065,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:43:17","TimeProcEnd":"19:43:23","PartialTimeProc":"00:00:05:98.443023","PartialTimeCopy":"00:00:05:98.443023","ProcStart":3845519084.79938,"ProcEnd":3845525069.22961,"FileSize":1049065,"FileSizeCopy":1049065,"CpyS2T":true}
-{"Owner":"DNATech","FileCopy":"GETDATAFROMSERVERWITHZIP","Call":1,"TimeProcStart":"19:43:25","TimeProcEnd":"19:44:23","PartialTimeProc":"00:00:58:12.063844","PartialTimeCopy":"00:00:58:12.063844","ProcStart":3845527616.17866,"ProcEnd":3845585736.8171,"FileSize":65518843,"FileSizeCopy":65518843,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:25:15","TimeProcEnd":"17:25:18","PartialTimeProc":"00:00:02:68.862193","PartialTimeCopy":"00:00:02:68.862193","ProcStart":4010034568.21177,"ProcEnd":4010037256.8337,"FileSize":1049065,"FileSizeCopy":1049065,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:25:21","TimeProcEnd":"17:25:28","PartialTimeProc":"00:00:07:40.633577","PartialTimeCopy":"00:00:07:40.633577","ProcStart":4010040427.48495,"ProcEnd":4010047833.82073,"FileSize":1049065,"FileSizeCopy":1049065,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:25:32","TimeProcEnd":"17:25:39","PartialTimeProc":"00:00:07:53.738132","PartialTimeCopy":"00:00:07:53.738132","ProcStart":4010051359.32128,"ProcEnd":4010058896.7026,"FileSize":1049065,"FileSizeCopy":1049065,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"GETDATAFROMSERVERWITHZIP","Call":1,"TimeProcStart":"17:25:42","TimeProcEnd":"17:26:53","PartialTimeProc":"00:01:10:78.142116","PartialTimeCopy":"00:01:10:78.142116","ProcStart":4010061802.57156,"ProcEnd":4010132583.99272,"FileSize":65518843,"FileSizeCopy":65518843,"CpyS2T":true}
 
 FileName[\system\rotulos\7-077777777_165X148.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:44:26","TimeProcEnd":"19:44:28","PartialTimeProc":"00:00:01:93.760349","PartialTimeCopy":"00:00:01:93.760349","ProcStart":3845588741.24464,"ProcEnd":3845590678.84813,"FileSize":1087983,"FileSizeCopy":1087983,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:44:31","TimeProcEnd":"19:44:37","PartialTimeProc":"00:00:05:70.330888","PartialTimeCopy":"00:00:05:70.330888","ProcStart":3845593444.15581,"ProcEnd":3845599147.46469,"FileSize":1087983,"FileSizeCopy":1087983,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:44:39","TimeProcEnd":"19:44:45","PartialTimeProc":"00:00:05:65.144033","PartialTimeCopy":"00:00:05:65.144033","ProcStart":3845601792.6547,"ProcEnd":3845607444.09502,"FileSize":1087983,"FileSizeCopy":1087983,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:26:56","TimeProcEnd":"17:26:58","PartialTimeProc":"00:00:02:00.048829","PartialTimeCopy":"00:00:02:00.048829","ProcStart":4010136068.37828,"ProcEnd":4010138068.86656,"FileSize":1087983,"FileSizeCopy":1087983,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:27:02","TimeProcEnd":"17:27:09","PartialTimeProc":"00:00:06:90.984802","PartialTimeCopy":"00:00:06:90.984802","ProcStart":4010141614.99969,"ProcEnd":4010148524.84772,"FileSize":1087983,"FileSizeCopy":1087983,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:27:12","TimeProcEnd":"17:27:19","PartialTimeProc":"00:00:06:85.936083","PartialTimeCopy":"00:00:06:85.936083","ProcStart":4010151740.24414,"ProcEnd":4010158599.60498,"FileSize":1087983,"FileSizeCopy":1087983,"CpyS2T":true}
 
 FileName[\system\rotulos\7-077777777_165X148_ALTA.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:44:48","TimeProcEnd":"19:44:49","PartialTimeProc":"00:00:01:76.579597","PartialTimeCopy":"00:00:01:76.579597","ProcStart":3845610209.68786,"ProcEnd":3845611975.48383,"FileSize":1087983,"FileSizeCopy":1087983,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:44:52","TimeProcEnd":"19:44:58","PartialTimeProc":"00:00:05:98.438750","PartialTimeCopy":"00:00:05:98.438750","ProcStart":3845614897.32297,"ProcEnd":3845620881.71047,"FileSize":1087983,"FileSizeCopy":1087983,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:45:01","TimeProcEnd":"19:45:07","PartialTimeProc":"00:00:05:79.692672","PartialTimeCopy":"00:00:05:79.692672","ProcStart":3845623647.27011,"ProcEnd":3845629444.19683,"FileSize":1087983,"FileSizeCopy":1087983,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:27:22","TimeProcEnd":"17:27:24","PartialTimeProc":"00:00:01:98.471783","PartialTimeCopy":"00:00:01:98.471783","ProcStart":4010161740.17334,"ProcEnd":4010163724.89117,"FileSize":1087983,"FileSizeCopy":1087983,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:27:28","TimeProcEnd":"17:27:35","PartialTimeProc":"00:00:07:26.586579","PartialTimeCopy":"00:00:07:26.586579","ProcStart":4010167286.90756,"ProcEnd":4010174552.77335,"FileSize":1087983,"FileSizeCopy":1087983,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:27:38","TimeProcEnd":"17:27:45","PartialTimeProc":"00:00:06:79.719186","PartialTimeCopy":"00:00:06:79.719186","ProcStart":4010177568.15464,"ProcEnd":4010184365.3465,"FileSize":1087983,"FileSizeCopy":1087983,"CpyS2T":true}
 
 FileName[\system\rotulos\1-011111111_130X200.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:45:10","TimeProcEnd":"19:45:11","PartialTimeProc":"00:00:01:73.264810","PartialTimeCopy":"00:00:01:73.264810","ProcStart":3845632165.21271,"ProcEnd":3845633897.86081,"FileSize":1098406,"FileSizeCopy":1098406,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:45:14","TimeProcEnd":"19:45:20","PartialTimeProc":"00:00:05:85.324333","PartialTimeCopy":"00:00:05:85.324333","ProcStart":3845636684.85797,"ProcEnd":3845642538.1013,"FileSize":1098406,"FileSizeCopy":1098406,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:45:23","TimeProcEnd":"19:45:28","PartialTimeProc":"00:00:05:48.469879","PartialTimeCopy":"00:00:05:48.469879","ProcStart":3845645194.04876,"ProcEnd":3845650678.74754,"FileSize":1098406,"FileSizeCopy":1098406,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:27:48","TimeProcEnd":"17:27:50","PartialTimeProc":"00:00:02:33.823240","PartialTimeCopy":"00:00:02:33.823240","ProcStart":4010187370.53821,"ProcEnd":4010189708.77062,"FileSize":1098406,"FileSizeCopy":1098406,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:27:54","TimeProcEnd":"17:28:01","PartialTimeProc":"00:00:07:21.421624","PartialTimeCopy":"00:00:07:21.421624","ProcStart":4010193224.43414,"ProcEnd":4010200438.65037,"FileSize":1098406,"FileSizeCopy":1098406,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:28:04","TimeProcEnd":"17:28:10","PartialTimeProc":"00:00:06:60.018775","PartialTimeCopy":"00:00:06:60.018775","ProcStart":4010203343.30717,"ProcEnd":4010209943.49492,"FileSize":1098406,"FileSizeCopy":1098406,"CpyS2T":true}
 
 FileName[\system\rotulos\1-011111111_130X200_ALTA.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:45:31","TimeProcEnd":"19:45:33","PartialTimeProc":"00:00:01:84.435943","PartialTimeCopy":"00:00:01:84.435943","ProcStart":3845653428.45518,"ProcEnd":3845655272.81461,"FileSize":1098406,"FileSizeCopy":1098406,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:45:36","TimeProcEnd":"19:45:41","PartialTimeProc":"00:00:05:78.169240","PartialTimeCopy":"00:00:05:78.169240","ProcStart":3845658069.11779,"ProcEnd":3845663850.81019,"FileSize":1098406,"FileSizeCopy":1098406,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:45:44","TimeProcEnd":"19:45:49","PartialTimeProc":"00:00:05:40.651082","PartialTimeCopy":"00:00:05:40.651082","ProcStart":3845666506.65365,"ProcEnd":3845671913.16447,"FileSize":1098406,"FileSizeCopy":1098406,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:28:13","TimeProcEnd":"17:28:16","PartialTimeProc":"00:00:02:07.823631","PartialTimeCopy":"00:00:02:07.823631","ProcStart":4010213146.5765,"ProcEnd":4010215224.8128,"FileSize":1098406,"FileSizeCopy":1098406,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:28:19","TimeProcEnd":"17:28:26","PartialTimeProc":"00:00:07:03.144936","PartialTimeCopy":"00:00:07:03.144936","ProcStart":4010218490.38514,"ProcEnd":4010225521.8345,"FileSize":1098406,"FileSizeCopy":1098406,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:28:29","TimeProcEnd":"17:28:35","PartialTimeProc":"00:00:06:67.212930","PartialTimeCopy":"00:00:06:67.212930","ProcStart":4010228536.93136,"ProcEnd":4010235209.06066,"FileSize":1098406,"FileSizeCopy":1098406,"CpyS2T":true}
 
 FileName[\system\rotulos\2-022222222_130X115_V2_BAIXA.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:45:52","TimeProcEnd":"19:45:54","PartialTimeProc":"00:00:02:06.253641","PartialTimeCopy":"00:00:02:06.253641","ProcStart":3845674569.2174,"ProcEnd":3845676631.75381,"FileSize":1187353,"FileSizeCopy":1187353,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:45:58","TimeProcEnd":"19:46:04","PartialTimeProc":"00:00:06:17.231778","PartialTimeCopy":"00:00:06:17.231778","ProcStart":3845680490.9557,"ProcEnd":3845686663.27348,"FileSize":1187353,"FileSizeCopy":1187353,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:46:07","TimeProcEnd":"19:46:12","PartialTimeProc":"00:00:05:45.338859","PartialTimeCopy":"00:00:05:45.338859","ProcStart":3845689381.60769,"ProcEnd":3845694834.99628,"FileSize":1187353,"FileSizeCopy":1187353,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:28:39","TimeProcEnd":"17:28:41","PartialTimeProc":"00:00:02:35.966577","PartialTimeCopy":"00:00:02:35.966577","ProcStart":4010238536.88985,"ProcEnd":4010240896.55562,"FileSize":1187353,"FileSizeCopy":1187353,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:28:45","TimeProcEnd":"17:28:53","PartialTimeProc":"00:00:08:65.676266","PartialTimeCopy":"00:00:08:65.676266","ProcStart":4010244349.37463,"ProcEnd":4010253006.13728,"FileSize":1187353,"FileSizeCopy":1187353,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:28:57","TimeProcEnd":"17:29:04","PartialTimeProc":"00:00:06:56.270975","PartialTimeCopy":"00:00:06:56.270975","ProcStart":4010257021.26613,"ProcEnd":4010263583.97588,"FileSize":1187353,"FileSizeCopy":1187353,"CpyS2T":true}
 
 FileName[\system\rotulos\2-022222222_130X115_BAIXA.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:46:15","TimeProcEnd":"19:46:17","PartialTimeProc":"00:00:02:10.922619","PartialTimeCopy":"00:00:02:10.922619","ProcStart":3845697506.73885,"ProcEnd":3845699615.96504,"FileSize":1363517,"FileSizeCopy":1363517,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:46:20","TimeProcEnd":"19:46:27","PartialTimeProc":"00:00:06:95.336076","PartialTimeCopy":"00:00:06:95.336076","ProcStart":3845702444.03106,"ProcEnd":3845709397.39181,"FileSize":1363517,"FileSizeCopy":1363517,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:46:30","TimeProcEnd":"19:46:36","PartialTimeProc":"00:00:06:68.779502","PartialTimeCopy":"00:00:06:68.779502","ProcStart":3845712100.37671,"ProcEnd":3845718788.17173,"FileSize":1363517,"FileSizeCopy":1363517,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:29:07","TimeProcEnd":"17:29:10","PartialTimeProc":"00:00:02:78.297416","PartialTimeCopy":"00:00:02:78.297416","ProcStart":4010266912.65494,"ProcEnd":4010269695.6291,"FileSize":1363517,"FileSizeCopy":1363517,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:29:13","TimeProcEnd":"17:29:22","PartialTimeProc":"00:00:08:75.032874","PartialTimeCopy":"00:00:08:75.032874","ProcStart":4010273177.50827,"ProcEnd":4010281927.83701,"FileSize":1363517,"FileSizeCopy":1363517,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:29:25","TimeProcEnd":"17:29:33","PartialTimeProc":"00:00:08:28.141652","PartialTimeCopy":"00:00:08:28.141652","ProcStart":4010284927.76841,"ProcEnd":4010293209.18493,"FileSize":1363517,"FileSizeCopy":1363517,"CpyS2T":true}
 
 FileName[\system\rotulos\4-044444444_130X160.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:46:39","TimeProcEnd":"19:46:41","PartialTimeProc":"00:00:02:31.271402","PartialTimeCopy":"00:00:02:31.271402","ProcStart":3845721459.85693,"ProcEnd":3845723772.57095,"FileSize":1369866,"FileSizeCopy":1369866,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:46:44","TimeProcEnd":"19:46:51","PartialTimeProc":"00:00:06:93.826097","PartialTimeCopy":"00:00:06:93.826097","ProcStart":3845726584.64874,"ProcEnd":3845733522.9097,"FileSize":1369866,"FileSizeCopy":1369866,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:46:54","TimeProcEnd":"19:47:00","PartialTimeProc":"00:00:06:59.257144","PartialTimeCopy":"00:00:06:59.257144","ProcStart":3845736226.78524,"ProcEnd":3845742819.35668,"FileSize":1369866,"FileSizeCopy":1369866,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:29:37","TimeProcEnd":"17:29:39","PartialTimeProc":"00:00:02:53.986059","PartialTimeCopy":"00:00:02:53.986059","ProcStart":4010296372.44205,"ProcEnd":4010298912.30264,"FileSize":1369866,"FileSizeCopy":1369866,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:29:42","TimeProcEnd":"17:29:51","PartialTimeProc":"00:00:08:96.880968","PartialTimeCopy":"00:00:08:96.880968","ProcStart":4010302162.24222,"ProcEnd":4010311131.05189,"FileSize":1369866,"FileSizeCopy":1369866,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:29:54","TimeProcEnd":"17:30:02","PartialTimeProc":"00:00:07:75.053626","PartialTimeCopy":"00:00:07:75.053626","ProcStart":4010314052.5773,"ProcEnd":4010321803.11356,"FileSize":1369866,"FileSizeCopy":1369866,"CpyS2T":true}
 
 FileName[\system\rotulos\1-011111111_130X200_ALTA.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:47:03","TimeProcEnd":"19:47:05","PartialTimeProc":"00:00:02:13.320695","PartialTimeCopy":"00:00:02:13.320695","ProcStart":3845745615.90034,"ProcEnd":3845747749.10729,"FileSize":1429148,"FileSizeCopy":1429148,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:47:08","TimeProcEnd":"19:47:15","PartialTimeProc":"00:00:07:20.338017","PartialTimeCopy":"00:00:07:20.338017","ProcStart":3845750631.63906,"ProcEnd":3845757835.01923,"FileSize":1429148,"FileSizeCopy":1429148,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:47:18","TimeProcEnd":"19:47:24","PartialTimeProc":"00:00:05:96.911730","PartialTimeCopy":"00:00:05:96.911730","ProcStart":3845760912.90201,"ProcEnd":3845766882.01931,"FileSize":1429148,"FileSizeCopy":1429148,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:30:05","TimeProcEnd":"17:30:08","PartialTimeProc":"00:00:02:53.136733","PartialTimeCopy":"00:00:02:53.136733","ProcStart":4010325177.56345,"ProcEnd":4010327708.93077,"FileSize":1429148,"FileSizeCopy":1429148,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:30:12","TimeProcEnd":"17:30:22","PartialTimeProc":"00:00:10:23.468670","PartialTimeCopy":"00:00:10:23.468670","ProcStart":4010331552.5524,"ProcEnd":4010341787.2391,"FileSize":1429148,"FileSizeCopy":1429148,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:30:26","TimeProcEnd":"17:30:33","PartialTimeProc":"00:00:07:46.932531","PartialTimeCopy":"00:00:07:46.932531","ProcStart":4010345458.75169,"ProcEnd":4010352928.077,"FileSize":1429148,"FileSizeCopy":1429148,"CpyS2T":true}
 
 FileName[\system\rotulos\1-011111111_130X200.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:47:27","TimeProcEnd":"19:47:29","PartialTimeProc":"00:00:02:09.431682","PartialTimeCopy":"00:00:02:09.431682","ProcStart":3845769615.90474,"ProcEnd":3845771710.22156,"FileSize":1429148,"FileSizeCopy":1429148,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:47:32","TimeProcEnd":"19:47:39","PartialTimeProc":"00:00:07:26.613875","PartialTimeCopy":"00:00:07:26.613875","ProcStart":3845774584.73004,"ProcEnd":3845781850.86879,"FileSize":1429148,"FileSizeCopy":1429148,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:47:42","TimeProcEnd":"19:47:48","PartialTimeProc":"00:00:05:98.481061","PartialTimeCopy":"00:00:05:98.481061","ProcStart":3845784553.47624,"ProcEnd":3845790538.28684,"FileSize":1429148,"FileSizeCopy":1429148,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:30:37","TimeProcEnd":"17:30:39","PartialTimeProc":"00:00:02:68.758627","PartialTimeCopy":"00:00:02:68.758627","ProcStart":4010356443.23734,"ProcEnd":4010359130.82362,"FileSize":1429148,"FileSizeCopy":1429148,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:30:43","TimeProcEnd":"17:30:52","PartialTimeProc":"00:00:09:00.732504","PartialTimeCopy":"00:00:09:00.732504","ProcStart":4010362342.40384,"ProcEnd":4010371349.72888,"FileSize":1429148,"FileSizeCopy":1429148,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:30:55","TimeProcEnd":"17:31:02","PartialTimeProc":"00:00:07:11.684103","PartialTimeCopy":"00:00:07:11.684103","ProcStart":4010374443.21317,"ProcEnd":4010381560.0542,"FileSize":1429148,"FileSizeCopy":1429148,"CpyS2T":true}
 
 FileName[\system\rotulos\4-044444444_130X160_ALTA.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:47:51","TimeProcEnd":"19:47:53","PartialTimeProc":"00:00:02:18.807847","PartialTimeCopy":"00:00:02:18.807847","ProcStart":3845793225.3172,"ProcEnd":3845795413.39567,"FileSize":1542619,"FileSizeCopy":1542619,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:47:56","TimeProcEnd":"19:48:04","PartialTimeProc":"00:00:08:40.653109","PartialTimeCopy":"00:00:08:40.653109","ProcStart":3845798319.08764,"ProcEnd":3845806725.61872,"FileSize":1542619,"FileSizeCopy":1542619,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:48:07","TimeProcEnd":"19:48:16","PartialTimeProc":"00:00:09:53.836082","PartialTimeCopy":"00:00:09:53.836082","ProcStart":3845809397.24948,"ProcEnd":3845818935.6103,"FileSize":1542619,"FileSizeCopy":1542619,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:31:05","TimeProcEnd":"17:31:08","PartialTimeProc":"00:00:02:74.661922","PartialTimeCopy":"00:00:02:74.661922","ProcStart":4010384662.12112,"ProcEnd":4010387408.74034,"FileSize":1542619,"FileSizeCopy":1542619,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:31:11","TimeProcEnd":"17:31:21","PartialTimeProc":"00:00:09:93.198086","PartialTimeCopy":"00:00:09:93.198086","ProcStart":4010390630.65882,"ProcEnd":4010400562.63968,"FileSize":1542619,"FileSizeCopy":1542619,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:31:24","TimeProcEnd":"17:31:35","PartialTimeProc":"00:00:10:64.112746","PartialTimeCopy":"00:00:10:64.112746","ProcStart":4010403677.47946,"ProcEnd":4010414318.60692,"FileSize":1542619,"FileSizeCopy":1542619,"CpyS2T":true}
 
 FileName[\system\rotulos\4-044444444_130X160.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:48:19","TimeProcEnd":"19:48:22","PartialTimeProc":"00:00:02:45.434173","PartialTimeCopy":"00:00:02:45.434173","ProcStart":3845821600.35108,"ProcEnd":3845824054.69281,"FileSize":1804513,"FileSizeCopy":1804513,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:48:25","TimeProcEnd":"19:48:34","PartialTimeProc":"00:00:09:17.203555","PartialTimeCopy":"00:00:09:17.203555","ProcStart":3845827131.70766,"ProcEnd":3845836303.74321,"FileSize":1804513,"FileSizeCopy":1804513,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:48:37","TimeProcEnd":"19:48:44","PartialTimeProc":"00:00:07:07.846922","PartialTimeCopy":"00:00:07:07.846922","ProcStart":3845839053.5131,"ProcEnd":3845846131.98232,"FileSize":1804513,"FileSizeCopy":1804513,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:31:38","TimeProcEnd":"17:31:41","PartialTimeProc":"00:00:03:25.027625","PartialTimeCopy":"00:00:03:25.027625","ProcStart":4010417365.14362,"ProcEnd":4010420615.41987,"FileSize":1804513,"FileSizeCopy":1804513,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:31:44","TimeProcEnd":"17:31:57","PartialTimeProc":"00:00:12:40.682870","PartialTimeCopy":"00:00:12:40.682870","ProcStart":4010424115.05878,"ProcEnd":4010436521.88747,"FileSize":1804513,"FileSizeCopy":1804513,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:32:00","TimeProcEnd":"17:32:09","PartialTimeProc":"00:00:08:84.207449","PartialTimeCopy":"00:00:08:84.207449","ProcStart":4010439521.37746,"ProcEnd":4010448363.45195,"FileSize":1804513,"FileSizeCopy":1804513,"CpyS2T":true}
 
 FileName[\system\rotulos\3-033333333_130X300_ALTA.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:48:46","TimeProcEnd":"19:48:49","PartialTimeProc":"00:00:02:50.035303","PartialTimeCopy":"00:00:02:50.035303","ProcStart":3845848819.1245,"ProcEnd":3845851319.47753,"FileSize":1809203,"FileSizeCopy":1809203,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:48:52","TimeProcEnd":"19:49:01","PartialTimeProc":"00:00:08:95.351945","PartialTimeCopy":"00:00:08:95.351945","ProcStart":3845854115.90767,"ProcEnd":3845863069.42712,"FileSize":1809203,"FileSizeCopy":1809203,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:49:03","TimeProcEnd":"19:49:10","PartialTimeProc":"00:00:07:14.262943","PartialTimeCopy":"00:00:07:14.262943","ProcStart":3845865772.33023,"ProcEnd":3845872914.95966,"FileSize":1809203,"FileSizeCopy":1809203,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:32:12","TimeProcEnd":"17:32:15","PartialTimeProc":"00:00:03:25.011121","PartialTimeCopy":"00:00:03:25.011121","ProcStart":4010451458.80663,"ProcEnd":4010454708.91783,"FileSize":1809203,"FileSizeCopy":1809203,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:32:19","TimeProcEnd":"17:32:31","PartialTimeProc":"00:00:12:56.280423","PartialTimeCopy":"00:00:12:56.280423","ProcStart":4010458505.90705,"ProcEnd":4010471068.71129,"FileSize":1809203,"FileSizeCopy":1809203,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:32:34","TimeProcEnd":"17:32:43","PartialTimeProc":"00:00:08:46.910924","PartialTimeCopy":"00:00:08:46.910924","ProcStart":4010474021.47682,"ProcEnd":4010482490.58607,"FileSize":1809203,"FileSizeCopy":1809203,"CpyS2T":true}
 
 FileName[\system\rotulos\3-033333333_130X300.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:49:13","TimeProcEnd":"19:49:16","PartialTimeProc":"00:00:03:23.529389","PartialTimeCopy":"00:00:03:23.529389","ProcStart":3845875694.14519,"ProcEnd":3845878929.43908,"FileSize":1809203,"FileSizeCopy":1809203,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:49:19","TimeProcEnd":"19:49:29","PartialTimeProc":"00:00:09:62.798105","PartialTimeCopy":"00:00:09:62.798105","ProcStart":3845881753.77605,"ProcEnd":3845891381.7571,"FileSize":1809203,"FileSizeCopy":1809203,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:49:32","TimeProcEnd":"19:49:39","PartialTimeProc":"00:00:07:23.465325","PartialTimeCopy":"00:00:07:23.465325","ProcStart":3845894178.60716,"ProcEnd":3845901413.26042,"FileSize":1809203,"FileSizeCopy":1809203,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:32:46","TimeProcEnd":"17:32:49","PartialTimeProc":"00:00:02:82.864976","PartialTimeCopy":"00:00:02:82.864976","ProcStart":4010485630.9767,"ProcEnd":4010488459.62646,"FileSize":1809203,"FileSizeCopy":1809203,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:32:52","TimeProcEnd":"17:33:03","PartialTimeProc":"00:00:11:25.007581","PartialTimeCopy":"00:00:11:25.007581","ProcStart":4010491818.33177,"ProcEnd":4010503068.40757,"FileSize":1809203,"FileSizeCopy":1809203,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:33:07","TimeProcEnd":"17:33:16","PartialTimeProc":"00:00:09:01.453973","PartialTimeCopy":"00:00:09:01.453973","ProcStart":4010506241.42897,"ProcEnd":4010515255.9687,"FileSize":1809203,"FileSizeCopy":1809203,"CpyS2T":true}
 
 FileName[\system\rotulos\3-033333333_130X300_ALTA.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:49:42","TimeProcEnd":"19:49:44","PartialTimeProc":"00:00:02:48.484918","PartialTimeCopy":"00:00:02:48.484918","ProcStart":3845904116.07832,"ProcEnd":3845906600.9275,"FileSize":1872724,"FileSizeCopy":1872724,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:49:47","TimeProcEnd":"19:49:57","PartialTimeProc":"00:00:09:64.004150","PartialTimeCopy":"00:00:09:64.004150","ProcStart":3845909632.63101,"ProcEnd":3845919272.67252,"FileSize":1872724,"FileSizeCopy":1872724,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:49:59","TimeProcEnd":"19:50:09","PartialTimeProc":"00:00:09:48.823399","PartialTimeCopy":"00:00:09:48.823399","ProcStart":3845921991.2162,"ProcEnd":3845931479.45019,"FileSize":1872724,"FileSizeCopy":1872724,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:33:19","TimeProcEnd":"17:33:22","PartialTimeProc":"00:00:02:96.871349","PartialTimeCopy":"00:00:02:96.871349","ProcStart":4010518365.05719,"ProcEnd":4010521333.77068,"FileSize":1872724,"FileSizeCopy":1872724,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:33:25","TimeProcEnd":"17:33:37","PartialTimeProc":"00:00:12:43.776926","PartialTimeCopy":"00:00:12:43.776926","ProcStart":4010524708.89708,"ProcEnd":4010537146.66634,"FileSize":1872724,"FileSizeCopy":1872724,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:33:41","TimeProcEnd":"17:33:53","PartialTimeProc":"00:00:12:53.165664","PartialTimeCopy":"00:00:12:53.165664","ProcStart":4010540333.73967,"ProcEnd":4010552865.39631,"FileSize":1872724,"FileSizeCopy":1872724,"CpyS2T":true}
 
 FileName[\system\rotulos\3-033333333_130X300.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:50:12","TimeProcEnd":"19:50:14","PartialTimeProc":"00:00:02:45.345842","PartialTimeCopy":"00:00:02:45.345842","ProcStart":3845934209.79406,"ProcEnd":3845936663.25248,"FileSize":1872724,"FileSizeCopy":1872724,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:50:17","TimeProcEnd":"19:50:26","PartialTimeProc":"00:00:09:54.713339","PartialTimeCopy":"00:00:09:54.713339","ProcStart":3845939444.23907,"ProcEnd":3845948991.37245,"FileSize":1872724,"FileSizeCopy":1872724,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:50:29","TimeProcEnd":"19:50:39","PartialTimeProc":"00:00:09:48.220071","PartialTimeCopy":"00:00:09:48.220071","ProcStart":3845951788.00449,"ProcEnd":3845961270.2052,"FileSize":1872724,"FileSizeCopy":1872724,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:33:56","TimeProcEnd":"17:33:59","PartialTimeProc":"00:00:02:92.204177","PartialTimeCopy":"00:00:02:92.204177","ProcStart":4010556146.30574,"ProcEnd":4010559068.34751,"FileSize":1872724,"FileSizeCopy":1872724,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:34:03","TimeProcEnd":"17:34:15","PartialTimeProc":"00:00:12:43.866185","PartialTimeCopy":"00:00:12:43.866185","ProcStart":4010562333.81609,"ProcEnd":4010574772.47794,"FileSize":1872724,"FileSizeCopy":1872724,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:34:18","TimeProcEnd":"17:34:30","PartialTimeProc":"00:00:11:51.606660","PartialTimeCopy":"00:00:11:51.606660","ProcStart":4010577990.12366,"ProcEnd":4010589506.19026,"FileSize":1872724,"FileSizeCopy":1872724,"CpyS2T":true}
 
 FileName[\system\rotulos\5-055555555_70X113.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:50:41","TimeProcEnd":"19:50:44","PartialTimeProc":"00:00:02:59.320744","PartialTimeCopy":"00:00:02:59.320744","ProcStart":3845963944.96588,"ProcEnd":3845966538.17332,"FileSize":1927432,"FileSizeCopy":1927432,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:50:47","TimeProcEnd":"19:50:57","PartialTimeProc":"00:00:09:82.823179","PartialTimeCopy":"00:00:09:82.823179","ProcStart":3845969491.08314,"ProcEnd":3845979319.31493,"FileSize":1927432,"FileSizeCopy":1927432,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:51:00","TimeProcEnd":"19:51:07","PartialTimeProc":"00:00:07:54.282010","PartialTimeCopy":"00:00:07:54.282010","ProcStart":3845982042.17068,"ProcEnd":3845989584.99078,"FileSize":1927432,"FileSizeCopy":1927432,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:34:33","TimeProcEnd":"17:34:36","PartialTimeProc":"00:00:03:12.515802","PartialTimeCopy":"00:00:03:12.515802","ProcStart":4010592552.67935,"ProcEnd":4010595677.83738,"FileSize":1927432,"FileSizeCopy":1927432,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:34:39","TimeProcEnd":"17:34:51","PartialTimeProc":"00:00:11:82.935461","PartialTimeCopy":"00:00:11:82.935461","ProcStart":4010598958.82127,"ProcEnd":4010610788.17588,"FileSize":1927432,"FileSizeCopy":1927432,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:34:54","TimeProcEnd":"17:35:03","PartialTimeProc":"00:00:08:76.158010","PartialTimeCopy":"00:00:08:76.158010","ProcStart":4010613760.31934,"ProcEnd":4010622521.89944,"FileSize":1927432,"FileSizeCopy":1927432,"CpyS2T":true}
 
 FileName[\system\rotulos\5-055555555_70X113_ALTA.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:51:10","TimeProcEnd":"19:51:12","PartialTimeProc":"00:00:02:62.523615","PartialTimeCopy":"00:00:02:62.523615","ProcStart":3845992334.90472,"ProcEnd":3845994960.14087,"FileSize":1927432,"FileSizeCopy":1927432,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:51:15","TimeProcEnd":"19:51:25","PartialTimeProc":"00:00:09:65.662349","PartialTimeCopy":"00:00:09:65.662349","ProcStart":3845997865.94368,"ProcEnd":3846007522.56717,"FileSize":1927432,"FileSizeCopy":1927432,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:51:28","TimeProcEnd":"19:51:35","PartialTimeProc":"00:00:07:57.838426","PartialTimeCopy":"00:00:07:57.838426","ProcStart":3846010288.01523,"ProcEnd":3846017866.39949,"FileSize":1927432,"FileSizeCopy":1927432,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:35:06","TimeProcEnd":"17:35:09","PartialTimeProc":"00:00:02:85.925878","PartialTimeCopy":"00:00:02:85.925878","ProcStart":4010625630.74183,"ProcEnd":4010628490.00061,"FileSize":1927432,"FileSizeCopy":1927432,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:35:12","TimeProcEnd":"17:35:25","PartialTimeProc":"00:00:13:14.068116","PartialTimeCopy":"00:00:13:14.068116","ProcStart":4010631881.02076,"ProcEnd":4010645021.70193,"FileSize":1927432,"FileSizeCopy":1927432,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:35:28","TimeProcEnd":"17:35:37","PartialTimeProc":"00:00:08:62.484405","PartialTimeCopy":"00:00:08:62.484405","ProcStart":4010647974.77386,"ProcEnd":4010656599.61792,"FileSize":1927432,"FileSizeCopy":1927432,"CpyS2T":true}
 
 FileName[\system\rotulos\5-055555555_70X113.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:51:38","TimeProcEnd":"19:51:41","PartialTimeProc":"00:00:02:78.126686","PartialTimeCopy":"00:00:02:78.126686","ProcStart":3846020569.08239,"ProcEnd":3846023350.34925,"FileSize":1930570,"FileSizeCopy":1930570,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:51:44","TimeProcEnd":"19:51:54","PartialTimeProc":"00:00:10:45.325431","PartialTimeCopy":"00:00:10:45.325431","ProcStart":3846026194.31219,"ProcEnd":3846036647.5665,"FileSize":1930570,"FileSizeCopy":1930570,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:51:57","TimeProcEnd":"19:52:07","PartialTimeProc":"00:00:10:29.716305","PartialTimeCopy":"00:00:10:29.716305","ProcStart":3846039444.127,"ProcEnd":3846049741.29005,"FileSize":1930570,"FileSizeCopy":1930570,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:35:40","TimeProcEnd":"17:35:43","PartialTimeProc":"00:00:02:91.745505","PartialTimeCopy":"00:00:02:91.745505","ProcStart":4010659603.89946,"ProcEnd":4010662521.35451,"FileSize":1930570,"FileSizeCopy":1930570,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:35:46","TimeProcEnd":"17:35:58","PartialTimeProc":"00:00:11:68.972619","PartialTimeCopy":"00:00:11:68.972619","ProcStart":4010666068.22959,"ProcEnd":4010677757.95579,"FileSize":1930570,"FileSizeCopy":1930570,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:36:01","TimeProcEnd":"17:36:13","PartialTimeProc":"00:00:11:57.847947","PartialTimeCopy":"00:00:11:57.847947","ProcStart":4010680833.87688,"ProcEnd":4010692412.35635,"FileSize":1930570,"FileSizeCopy":1930570,"CpyS2T":true}
 
 FileName[\system\rotulos\5-055555555_70X113_ALTA.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:52:10","TimeProcEnd":"19:52:13","PartialTimeProc":"00:00:02:85.741428","PartialTimeCopy":"00:00:02:85.741428","ProcStart":3846052461.67995,"ProcEnd":3846055319.09423,"FileSize":1930570,"FileSizeCopy":1930570,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:52:16","TimeProcEnd":"19:52:26","PartialTimeProc":"00:00:10:17.209951","PartialTimeCopy":"00:00:10:17.209951","ProcStart":3846058256.78072,"ProcEnd":3846068428.88024,"FileSize":1930570,"FileSizeCopy":1930570,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:52:29","TimeProcEnd":"19:52:39","PartialTimeProc":"00:00:10:00.035816","PartialTimeCopy":"00:00:10:00.035816","ProcStart":3846071256.73263,"ProcEnd":3846081257.09079,"FileSize":1930570,"FileSizeCopy":1930570,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:36:16","TimeProcEnd":"17:36:19","PartialTimeProc":"00:00:02:85.835179","PartialTimeCopy":"00:00:02:85.835179","ProcStart":4010695553.73528,"ProcEnd":4010698412.08706,"FileSize":1930570,"FileSizeCopy":1930570,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:36:22","TimeProcEnd":"17:36:34","PartialTimeProc":"00:00:11:85.883983","PartialTimeCopy":"00:00:11:85.883983","ProcStart":4010701725.41169,"ProcEnd":4010713584.25152,"FileSize":1930570,"FileSizeCopy":1930570,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:36:37","TimeProcEnd":"17:36:49","PartialTimeProc":"00:00:12:22.350444","PartialTimeCopy":"00:00:12:22.350444","ProcStart":4010716588.44566,"ProcEnd":4010728811.9501,"FileSize":1930570,"FileSizeCopy":1930570,"CpyS2T":true}
 
 FileName[\system\rotulos\2-022222222_130X115.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:52:41","TimeProcEnd":"19:52:44","PartialTimeProc":"00:00:02:86.376421","PartialTimeCopy":"00:00:02:86.376421","ProcStart":3846083959.69751,"ProcEnd":3846086823.46171,"FileSize":2107707,"FileSizeCopy":2107707,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:52:47","TimeProcEnd":"19:52:58","PartialTimeProc":"00:00:10:94.845665","PartialTimeCopy":"00:00:10:94.845665","ProcStart":3846089714.73163,"ProcEnd":3846100663.18827,"FileSize":2107707,"FileSizeCopy":2107707,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:53:01","TimeProcEnd":"19:53:11","PartialTimeProc":"00:00:10:20.343510","PartialTimeCopy":"00:00:10:20.343510","ProcStart":3846103475.33197,"ProcEnd":3846113678.76708,"FileSize":2107707,"FileSizeCopy":2107707,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:36:52","TimeProcEnd":"17:36:56","PartialTimeProc":"00:00:03:32.356254","PartialTimeCopy":"00:00:03:32.356254","ProcStart":4010732040.91212,"ProcEnd":4010735364.47466,"FileSize":2107707,"FileSizeCopy":2107707,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:36:59","TimeProcEnd":"17:37:12","PartialTimeProc":"00:00:12:79.726486","PartialTimeCopy":"00:00:12:79.726486","ProcStart":4010738661.98928,"ProcEnd":4010751459.25414,"FileSize":2107707,"FileSizeCopy":2107707,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:37:15","TimeProcEnd":"17:37:26","PartialTimeProc":"00:00:11:54.730649","PartialTimeCopy":"00:00:11:54.730649","ProcStart":4010754583.773,"ProcEnd":4010766131.07948,"FileSize":2107707,"FileSizeCopy":2107707,"CpyS2T":true}
 
 FileName[\system\rotulos\2-022222222_130X115_ALTA.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:53:14","TimeProcEnd":"19:53:20","PartialTimeProc":"00:00:05:68.863975","PartialTimeCopy":"00:00:05:68.863975","ProcStart":3846116459.74658,"ProcEnd":3846122148.38633,"FileSize":2107707,"FileSizeCopy":2107707,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:53:22","TimeProcEnd":"19:53:34","PartialTimeProc":"00:00:11:09.412078","PartialTimeCopy":"00:00:11:09.412078","ProcStart":3846124959.75488,"ProcEnd":3846136053.87566,"FileSize":2107707,"FileSizeCopy":2107707,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:53:36","TimeProcEnd":"19:53:46","PartialTimeProc":"00:00:09:90.460430","PartialTimeCopy":"00:00:09:90.460430","ProcStart":3846138789.68664,"ProcEnd":3846148694.29095,"FileSize":2107707,"FileSizeCopy":2107707,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:37:30","TimeProcEnd":"17:37:33","PartialTimeProc":"00:00:03:32.931457","PartialTimeCopy":"00:00:03:32.931457","ProcStart":4010769239.35375,"ProcEnd":4010772568.66832,"FileSize":2107707,"FileSizeCopy":2107707,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:37:36","TimeProcEnd":"17:37:49","PartialTimeProc":"00:00:12:76.592805","PartialTimeCopy":"00:00:12:76.592805","ProcStart":4010775818.16721,"ProcEnd":4010788584.09526,"FileSize":2107707,"FileSizeCopy":2107707,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:37:53","TimeProcEnd":"17:38:04","PartialTimeProc":"00:00:11:26.595076","PartialTimeCopy":"00:00:11:26.595076","ProcStart":4010792333.91667,"ProcEnd":4010803599.86743,"FileSize":2107707,"FileSizeCopy":2107707,"CpyS2T":true}
 
 FileName[\system\rotulos\4-044444444_130X160_ALTA.BMP]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:53:49","TimeProcEnd":"19:53:53","PartialTimeProc":"00:00:03:79.693234","PartialTimeCopy":"00:00:03:79.693234","ProcStart":3846151553.46013,"ProcEnd":3846155350.39246,"FileSize":2913736,"FileSizeCopy":2913736,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:53:56","TimeProcEnd":"19:54:11","PartialTimeProc":"00:00:15:67.204775","PartialTimeCopy":"00:00:15:67.204775","ProcStart":3846158287.99497,"ProcEnd":3846173960.04273,"FileSize":2913736,"FileSizeCopy":2913736,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:54:14","TimeProcEnd":"19:54:16","PartialTimeProc":"00:00:01:56.319364","PartialTimeCopy":"00:00:01:56.319364","ProcStart":3846176678.46458,"ProcEnd":3846178241.65822,"FileSize":2913736,"FileSizeCopy":2913736,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:38:07","TimeProcEnd":"17:38:11","PartialTimeProc":"00:00:04:31.243033","PartialTimeCopy":"00:00:04:31.243033","ProcStart":4010806678.0637,"ProcEnd":4010810990.49402,"FileSize":2913736,"FileSizeCopy":2913736,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:38:15","TimeProcEnd":"17:38:35","PartialTimeProc":"00:00:19:45.330949","PartialTimeCopy":"00:00:19:45.330949","ProcStart":4010814771.38759,"ProcEnd":4010834224.69708,"FileSize":2913736,"FileSizeCopy":2913736,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:38:38","TimeProcEnd":"17:38:41","PartialTimeProc":"00:00:02:48.472638","PartialTimeCopy":"00:00:02:48.472638","ProcStart":4010838177.55832,"ProcEnd":4010840662.2847,"FileSize":2913736,"FileSizeCopy":2913736,"CpyS2T":true}
 
 FileName[\system\rotulos\4-044444444_130X160.BMP]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:54:19","TimeProcEnd":"19:54:22","PartialTimeProc":"00:00:03:73.464251","PartialTimeCopy":"00:00:03:73.464251","ProcStart":3846181037.84226,"ProcEnd":3846184772.48477,"FileSize":2913736,"FileSizeCopy":2913736,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:54:25","TimeProcEnd":"19:54:50","PartialTimeProc":"00:00:24:89.042078","PartialTimeCopy":"00:00:24:89.042078","ProcStart":3846187772.77311,"ProcEnd":3846212663.19389,"FileSize":2913736,"FileSizeCopy":2913736,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:54:54","TimeProcEnd":"19:54:57","PartialTimeProc":"00:00:02:75.033338","PartialTimeCopy":"00:00:02:75.033338","ProcStart":3846216944.1585,"ProcEnd":3846219694.49188,"FileSize":2913736,"FileSizeCopy":2913736,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:38:45","TimeProcEnd":"17:38:51","PartialTimeProc":"00:00:05:50.019849","PartialTimeCopy":"00:00:05:50.019849","ProcStart":4010844849.57507,"ProcEnd":4010850349.77356,"FileSize":2913736,"FileSizeCopy":2913736,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:38:55","TimeProcEnd":"17:39:17","PartialTimeProc":"00:00:21:96.896959","PartialTimeCopy":"00:00:21:96.896959","ProcStart":4010854552.73966,"ProcEnd":4010876521.70925,"FileSize":2913736,"FileSizeCopy":2913736,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:39:20","TimeProcEnd":"17:39:22","PartialTimeProc":"00:00:01:67.208828","PartialTimeCopy":"00:00:01:67.208828","ProcStart":4010879771.39858,"ProcEnd":4010881443.48686,"FileSize":2913736,"FileSizeCopy":2913736,"CpyS2T":true}
 
 FileName[\system\rotulos\2-022222222_130X115_ALTA.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:55:01","TimeProcEnd":"19:55:10","PartialTimeProc":"00:00:09:03.168349","PartialTimeCopy":"00:00:09:03.168349","ProcStart":3846223756.72872,"ProcEnd":3846232788.41221,"FileSize":2992100,"FileSizeCopy":2992100,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:55:16","TimeProcEnd":"19:55:38","PartialTimeProc":"00:00:21:76.584675","PartialTimeCopy":"00:00:21:76.584675","ProcStart":3846238475.37519,"ProcEnd":3846260241.22194,"FileSize":2992100,"FileSizeCopy":2992100,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:55:41","TimeProcEnd":"19:55:54","PartialTimeProc":"00:00:13:23.314957","PartialTimeCopy":"00:00:13:23.314957","ProcStart":3846263101.89773,"ProcEnd":3846276335.0473,"FileSize":2992100,"FileSizeCopy":2992100,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:39:26","TimeProcEnd":"17:39:30","PartialTimeProc":"00:00:04:42.305375","PartialTimeCopy":"00:00:04:42.305375","ProcStart":4010885474.45672,"ProcEnd":4010889897.51047,"FileSize":2992100,"FileSizeCopy":2992100,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:39:34","TimeProcEnd":"17:39:53","PartialTimeProc":"00:00:19:04.630476","PartialTimeCopy":"00:00:19:04.630476","ProcStart":4010893381.43801,"ProcEnd":4010912427.74277,"FileSize":2992100,"FileSizeCopy":2992100,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:39:56","TimeProcEnd":"17:40:13","PartialTimeProc":"00:00:16:75.019983","PartialTimeCopy":"00:00:16:75.019983","ProcStart":4010915630.7201,"ProcEnd":4010932380.91993,"FileSize":2992100,"FileSizeCopy":2992100,"CpyS2T":true}
 
 FileName[\system\rotulos\2-022222222_130X115.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:55:57","TimeProcEnd":"19:56:01","PartialTimeProc":"00:00:04:34.672909","PartialTimeCopy":"00:00:04:34.672909","ProcStart":3846279194.1115,"ProcEnd":3846283540.84059,"FileSize":2992100,"FileSizeCopy":2992100,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:56:04","TimeProcEnd":"19:56:20","PartialTimeProc":"00:00:15:97.043030","PartialTimeCopy":"00:00:15:97.043030","ProcStart":3846286959.7771,"ProcEnd":3846302930.2074,"FileSize":2992100,"FileSizeCopy":2992100,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:56:23","TimeProcEnd":"19:56:37","PartialTimeProc":"00:00:13:29.714108","PartialTimeCopy":"00:00:13:29.714108","ProcStart":3846305850.42957,"ProcEnd":3846319147.57065,"FileSize":2992100,"FileSizeCopy":2992100,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:40:16","TimeProcEnd":"17:40:20","PartialTimeProc":"00:00:04:53.527289","PartialTimeCopy":"00:00:04:53.527289","ProcStart":4010935349.53478,"ProcEnd":4010939884.80768,"FileSize":2992100,"FileSizeCopy":2992100,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:40:23","TimeProcEnd":"17:40:42","PartialTimeProc":"00:00:18:51.566499","PartialTimeCopy":"00:00:18:51.566499","ProcStart":4010943177.75315,"ProcEnd":4010961693.41813,"FileSize":2992100,"FileSizeCopy":2992100,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:40:45","TimeProcEnd":"17:41:01","PartialTimeProc":"00:00:15:93.775998","PartialTimeCopy":"00:00:15:93.775998","ProcStart":4010964974.44329,"ProcEnd":4010980912.20327,"FileSize":2992100,"FileSizeCopy":2992100,"CpyS2T":true}
 
 FileName[\system\rotulos\2-022222222_130X115_V2.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:56:39","TimeProcEnd":"19:56:43","PartialTimeProc":"00:00:04:10.331449","PartialTimeCopy":"00:00:04:10.331449","ProcStart":3846321840.77882,"ProcEnd":3846325944.09331,"FileSize":3440599,"FileSizeCopy":3440599,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:56:47","TimeProcEnd":"19:57:06","PartialTimeProc":"00:00:19:62.536213","PartialTimeCopy":"00:00:19:62.536213","ProcStart":3846329162.93558,"ProcEnd":3846348788.29771,"FileSize":3440599,"FileSizeCopy":3440599,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:57:09","TimeProcEnd":"19:57:22","PartialTimeProc":"00:00:12:47.766281","PartialTimeCopy":"00:00:12:47.766281","ProcStart":3846351591.74599,"ProcEnd":3846364069.40881,"FileSize":3440599,"FileSizeCopy":3440599,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:41:04","TimeProcEnd":"17:41:09","PartialTimeProc":"00:00:04:96.889781","PartialTimeCopy":"00:00:04:96.889781","ProcStart":4010984037.08248,"ProcEnd":4010989005.9803,"FileSize":3440599,"FileSizeCopy":3440599,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:41:13","TimeProcEnd":"17:41:34","PartialTimeProc":"00:00:21:56.209109","PartialTimeCopy":"00:00:21:56.209109","ProcStart":4010992428.08799,"ProcEnd":4011013990.17908,"FileSize":3440599,"FileSizeCopy":3440599,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:41:37","TimeProcEnd":"17:41:52","PartialTimeProc":"00:00:14:78.156960","PartialTimeCopy":"00:00:14:78.156960","ProcStart":4011017083.81841,"ProcEnd":4011031865.38801,"FileSize":3440599,"FileSizeCopy":3440599,"CpyS2T":true}
 
 FileName[\system\rotulos\2-022222222_130X115_V2_ALTA.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:57:24","TimeProcEnd":"19:57:29","PartialTimeProc":"00:00:04:18.781015","PartialTimeCopy":"00:00:04:18.781015","ProcStart":3846366881.76614,"ProcEnd":3846371069.57629,"FileSize":3440599,"FileSizeCopy":3440599,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:57:31","TimeProcEnd":"19:57:49","PartialTimeProc":"00:00:17:56.289774","PartialTimeCopy":"00:00:17:56.289774","ProcStart":3846373991.11537,"ProcEnd":3846391554.01311,"FileSize":3440599,"FileSizeCopy":3440599,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:57:52","TimeProcEnd":"19:58:05","PartialTimeProc":"00:00:13:04.715072","PartialTimeCopy":"00:00:13:04.715072","ProcStart":3846394256.73727,"ProcEnd":3846407303.88799,"FileSize":3440599,"FileSizeCopy":3440599,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:41:55","TimeProcEnd":"17:42:00","PartialTimeProc":"00:00:05:09.420843","PartialTimeCopy":"00:00:05:09.420843","ProcStart":4011034943.17265,"ProcEnd":4011040037.38107,"FileSize":3440599,"FileSizeCopy":3440599,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:42:04","TimeProcEnd":"17:42:24","PartialTimeProc":"00:00:20:46.671981","PartialTimeCopy":"00:00:20:46.671981","ProcStart":4011043617.48752,"ProcEnd":4011064084.20733,"FileSize":3440599,"FileSizeCopy":3440599,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:42:28","TimeProcEnd":"17:42:43","PartialTimeProc":"00:00:15:50.016236","PartialTimeCopy":"00:00:15:50.016236","ProcStart":4011067224.60357,"ProcEnd":4011082724.76593,"FileSize":3440599,"FileSizeCopy":3440599,"CpyS2T":true}
 
 FileName[\system\rotulos\2-022222222_130X115_V2.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:58:08","TimeProcEnd":"19:58:12","PartialTimeProc":"00:00:04:24.773325","PartialTimeCopy":"00:00:04:24.773325","ProcStart":3846410071.35805,"ProcEnd":3846414319.0913,"FileSize":3600148,"FileSizeCopy":3600148,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:58:15","TimeProcEnd":"19:58:35","PartialTimeProc":"00:00:20:30.597615","PartialTimeCopy":"00:00:20:30.597615","ProcStart":3846417263.7061,"ProcEnd":3846437569.68225,"FileSize":3600148,"FileSizeCopy":3600148,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:58:38","TimeProcEnd":"19:58:52","PartialTimeProc":"00:00:14:04.823472","PartialTimeCopy":"00:00:14:04.823472","ProcStart":3846440366.1346,"ProcEnd":3846454414.36932,"FileSize":3600148,"FileSizeCopy":3600148,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:42:46","TimeProcEnd":"17:42:52","PartialTimeProc":"00:00:05:64.086134","PartialTimeCopy":"00:00:05:64.086134","ProcStart":4011085865.10626,"ProcEnd":4011091505.9676,"FileSize":3600148,"FileSizeCopy":3600148,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:42:55","TimeProcEnd":"17:43:16","PartialTimeProc":"00:00:21:06.282010","PartialTimeCopy":"00:00:21:06.282010","ProcStart":4011094833.85368,"ProcEnd":4011115896.67379,"FileSize":3600148,"FileSizeCopy":3600148,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:43:20","TimeProcEnd":"17:43:38","PartialTimeProc":"00:00:18:53.173989","PartialTimeCopy":"00:00:18:53.173989","ProcStart":4011119333.92034,"ProcEnd":4011137865.66023,"FileSize":3600148,"FileSizeCopy":3600148,"CpyS2T":true}
 
 FileName[\system\rotulos\2-022222222_130X115_V2_ALTA.JPG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:58:55","TimeProcEnd":"19:58:59","PartialTimeProc":"00:00:04:36.130080","PartialTimeCopy":"00:00:04:36.130080","ProcStart":3846457100.45337,"ProcEnd":3846461461.75417,"FileSize":3600148,"FileSizeCopy":3600148,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:59:02","TimeProcEnd":"19:59:20","PartialTimeProc":"00:00:18:18.785654","PartialTimeCopy":"00:00:18:18.785654","ProcStart":3846464553.53068,"ProcEnd":3846482741.38722,"FileSize":3600148,"FileSizeCopy":3600148,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"19:59:23","TimeProcEnd":"19:59:39","PartialTimeProc":"00:00:16:04.717025","PartialTimeCopy":"00:00:16:04.717025","ProcStart":3846485475.50385,"ProcEnd":3846501522.67411,"FileSize":3600148,"FileSizeCopy":3600148,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:43:41","TimeProcEnd":"17:43:46","PartialTimeProc":"00:00:05:14.649080","PartialTimeCopy":"00:00:05:14.649080","ProcStart":4011140911.95889,"ProcEnd":4011146058.44969,"FileSize":3600148,"FileSizeCopy":3600148,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:43:50","TimeProcEnd":"17:44:13","PartialTimeProc":"00:00:23:57.817796","PartialTimeCopy":"00:00:23:57.817796","ProcStart":4011149443.44047,"ProcEnd":4011173021.61843,"FileSize":3600148,"FileSizeCopy":3600148,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:44:17","TimeProcEnd":"17:44:35","PartialTimeProc":"00:00:18:87.530317","PartialTimeCopy":"00:00:18:87.530317","ProcStart":4011176318.18284,"ProcEnd":4011195193.486,"FileSize":3600148,"FileSizeCopy":3600148,"CpyS2T":true}
 
 FileName[\system\rotulos\A-033333333.PNG]
-{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"19:59:42","TimeProcEnd":"19:59:47","PartialTimeProc":"00:00:05:31.466497","PartialTimeCopy":"00:00:05:31.466497","ProcStart":3846504207.88437,"ProcEnd":3846509522.54935,"FileSize":4782398,"FileSizeCopy":4782398,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"19:59:50","TimeProcEnd":"20:00:15","PartialTimeProc":"00:00:25:12.524176","PartialTimeCopy":"00:00:25:12.524176","ProcStart":3846512428.60387,"ProcEnd":3846537553.84563,"FileSize":4782398,"FileSizeCopy":4782398,"CpyS2T":true}
-{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"20:00:18","TimeProcEnd":"20:00:44","PartialTimeProc":"00:00:26:10.960192","PartialTimeCopy":"00:00:26:10.960192","ProcStart":3846540319.30126,"ProcEnd":3846566428.90318,"FileSize":4782398,"FileSizeCopy":4782398,"CpyS2T":true}
+{"Owner":"DNATech","FileCopy":"FILECOPY                ","Call":1,"TimeProcStart":"17:44:39","TimeProcEnd":"17:44:46","PartialTimeProc":"00:00:06:95.335075","PartialTimeCopy":"00:00:06:95.335075","ProcStart":4011198365.13507,"ProcEnd":4011205318.48582,"FileSize":4782398,"FileSizeCopy":4782398,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2T                  ","Call":1,"TimeProcStart":"17:44:49","TimeProcEnd":"17:45:23","PartialTimeProc":"00:00:33:77.012268","PartialTimeCopy":"00:00:33:77.012268","ProcStart":4011208630.95594,"ProcEnd":4011242401.07863,"FileSize":4782398,"FileSizeCopy":4782398,"CpyS2T":true}
+{"Owner":"TOTVS  ","FileCopy":"CPYS2TZip               ","Call":1,"TimeProcStart":"17:45:26","TimeProcEnd":"17:45:56","PartialTimeProc":"00:00:29:78.151711","PartialTimeCopy":"00:00:29:78.151711","ProcStart":4011245693.18766,"ProcEnd":4011275474.70477,"FileSize":4782398,"FileSizeCopy":4782398,"CpyS2T":true}
 
-{"FILECOPY":{"TotalTimeProc":98186.8025741576,"TotalTimeCopy":98186.8025741576,"TotalElapTimeCopy":"00:01:38:18.680257"},"CPYS2T":{"TotalTimeProc":360103.486125947,"TotalTimeCopy":360103.486125947,"TotalElapTimeCopy":"00:06:00:10.348613"},"CPYS2TZip":{"TotalTimeProc":277076.640340329,"TotalTimeCopy":277076.640340329,"TotalElapTimeCopy":"00:04:37:07.664034"},"GETDATAFROMSERVERWITHZIP":{"TotalTimeProc":58120.6384353638,"TotalTimeCopy":58120.6384353638,"TotalElapTimeCopy":"00:00:58:12.063844"}}
+{"FILECOPY":{"TotalTimeProc":106946.027904511,"TotalTimeCopy":106946.027904511,"TotalFileSize":65518843,"TotalElapTimeCopy":"00:01:46:94.602790"},"CPYS2T":{"TotalTimeProc":425979.723873141,"TotalTimeCopy":425979.723873141,"TotalFileSize":65518843,"TotalElapTimeCopy":"00:07:05:97.972387"},"CPYS2TZip":{"TotalTimeProc":330978.385965825,"TotalTimeCopy":330978.385965825,"TotalFileSize":65518843,"TotalElapTimeCopy":"00:05:30:97.838597"},"GETDATAFROMSERVERWITHZIP":{"TotalTimeProc":70781.4211602211,"TotalTimeCopy":70781.4211602211,"TotalFileSize":65518843,"TotalElapTimeCopy":"00:01:10:78.142116"}}
 
 ************************************************************************************
 
 ====================================================================================
 PERFORMANCE REPORT: __CPYS2TCOPYIOPERFORM (ID: 000000000000001)
 ====================================================================================
-Start: 09/08/2026 - 19:43:00
-End: 09/08/2026 - 20:00:44
-Time elapsed: 00h 17m 44s 155.537299ms
+Start: 11/08/2026 - 17:25:10
+End: 11/08/2026 - 17:45:56
+Time elapsed: 00h 20m 46s 639.599605ms
 Status: STOPPED
-Total Time: 1064.155537 seconds
-Main Time (without subprocesses): 0.032887 seconds
+Total Time: 1245.639600 seconds
+Main Time (without subprocesses): 0.032752 seconds
 ------------------------------------------------------------------------------------
 SUBPROCESSES: 1
 ------------------------------------------------------------------------------------
-[1] MAIN (ID: 000000000000002): 1064.122650s (STOPPED)
+[1] MAIN (ID: 000000000000002): 1245.606847s (STOPPED)
   ====================================================================================
   PERFORMANCE REPORT: MAIN (ID: 000000000000002)
   ====================================================================================
-  Start: 09/08/2026 - 19:43:00
-  End: 09/08/2026 - 20:00:44
-  Time elapsed: 00h 17m 44s 122.650423ms
+  Start: 11/08/2026 - 17:25:10
+  End: 11/08/2026 - 17:45:56
+  Time elapsed: 00h 20m 46s 606.847496ms
   Status: STOPPED
-  Total Time: 1064.122650 seconds
-  Main Time (without subprocesses): 0.007083 seconds
+  Total Time: 1245.606847 seconds
+  Main Time (without subprocesses): 0.008168 seconds
   ------------------------------------------------------------------------------------
   SUBPROCESSES: 31
   ------------------------------------------------------------------------------------
-  [1] _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_PNG (ID: 000000000000003): 83.576113s (STOPPED)
+  [1] _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_PNG (ID: 000000000000003): 102.826042s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_PNG (ID: 000000000000003)
     ====================================================================================
-    Start: 09/08/2026 - 19:43:00
-    End: 09/08/2026 - 19:44:23
-    Time elapsed: 00h 01m 24s 576.113478ms
+    Start: 11/08/2026 - 17:25:10
+    End: 11/08/2026 - 17:26:53
+    Time elapsed: 00h 01m 43s 826.042066ms
     Status: STOPPED
-    Total Time: 83.576113 seconds
-    Main Time (without subprocesses): 0.006200 seconds
+    Total Time: 102.826042 seconds
+    Main Time (without subprocesses): 0.008496 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 4
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000004): 6.170999s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000005): 8.088624s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000006): 8.497437s (STOPPED)
-    [4] 4___TST_GETDATAFROMSERVERWITHZIP (ID: 000000000000007): 60.812854s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000004): 7.390665s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000005): 10.573014s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000006): 11.057931s (STOPPED)
+    [4] 4___TST_GETDATAFROMSERVERWITHZIP (ID: 000000000000007): 73.795935s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 83.569914 seconds
+    TOTAL SUBPROCESSES: 102.817546 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -210,32 +210,32 @@ SUBPROCESSES: 1
     ID: 000000000000003
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_PNG
     NumberOfIntervals: 4
-    SumOfTimes: 83569.913695
+    SumOfTimes: 102817.545868
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 4___TST_GETDATAFROMSERVERWITHZIP
-    MoreFastTime: 6170.998914
-    MoreSlowerTime: 60812.853917
-    Average: 20892.478424
+    MoreFastTime: 7390.665413
+    MoreSlowerTime: 73795.935253
+    Average: 25704.386467
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [2] _SYSTEM_ROTULOS_7-077777777_165X148_JPG (ID: 000000000000008): 21.560562s (STOPPED)
+  [2] _SYSTEM_ROTULOS_7-077777777_165X148_JPG (ID: 000000000000008): 25.905145s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_7-077777777_165X148_JPG (ID: 000000000000008)
     ====================================================================================
-    Start: 09/08/2026 - 19:44:23
-    End: 09/08/2026 - 19:44:45
-    Time elapsed: 00h 00m 22s 560.562263ms
+    Start: 11/08/2026 - 17:26:53
+    End: 11/08/2026 - 17:27:19
+    Time elapsed: 00h 00m 26s 905.144838ms
     Status: STOPPED
-    Total Time: 21.560562 seconds
-    Main Time (without subprocesses): 0.005332 seconds
+    Total Time: 25.905145 seconds
+    Main Time (without subprocesses): 0.016421 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000009): 4.793757s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000010): 8.466748s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000011): 8.294725s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000009): 5.374099s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000010): 10.443093s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000011): 10.071532s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 21.555231 seconds
+    TOTAL SUBPROCESSES: 25.888724 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -244,32 +244,32 @@ SUBPROCESSES: 1
     ID: 000000000000008
     Name: _SYSTEM_ROTULOS_7-077777777_165X148_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 21555.230655
+    SumOfTimes: 25888.723739
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4793.757248
-    MoreSlowerTime: 8466.748129
-    Average: 7185.076885
+    MoreFastTime: 5374.098561
+    MoreSlowerTime: 10443.093055
+    Average: 8629.574580
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [3] _SYSTEM_ROTULOS_7-077777777_165X148_ALTA_JPG (ID: 000000000000012): 22.000010s (STOPPED)
+  [3] _SYSTEM_ROTULOS_7-077777777_165X148_ALTA_JPG (ID: 000000000000012): 25.765564s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_7-077777777_165X148_ALTA_JPG (ID: 000000000000012)
     ====================================================================================
-    Start: 09/08/2026 - 19:44:45
-    End: 09/08/2026 - 19:45:07
-    Time elapsed: 00h 00m 22s 0.010254ms
+    Start: 11/08/2026 - 17:27:19
+    End: 11/08/2026 - 17:27:45
+    Time elapsed: 00h 00m 26s 765.563544ms
     Status: STOPPED
-    Total Time: 22.000010 seconds
-    Main Time (without subprocesses): 0.004714 seconds
+    Total Time: 25.765564 seconds
+    Main Time (without subprocesses): 0.004216 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000013): 4.530237s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000014): 8.904690s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000015): 8.560370s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000013): 5.123839s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000014): 10.826599s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000015): 9.810909s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 21.995296 seconds
+    TOTAL SUBPROCESSES: 25.761347 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -278,32 +278,32 @@ SUBPROCESSES: 1
     ID: 000000000000012
     Name: _SYSTEM_ROTULOS_7-077777777_165X148_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 21995.296085
+    SumOfTimes: 25761.347184
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4530.236941
-    MoreSlowerTime: 8904.689510
-    Average: 7331.765362
+    MoreFastTime: 5123.839158
+    MoreSlowerTime: 10826.598958
+    Average: 8587.115728
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [4] _SYSTEM_ROTULOS_1-011111111_130X200_PNG (ID: 000000000000016): 21.234463s (STOPPED)
+  [4] _SYSTEM_ROTULOS_1-011111111_130X200_PNG (ID: 000000000000016): 25.579941s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_1-011111111_130X200_PNG (ID: 000000000000016)
     ====================================================================================
-    Start: 09/08/2026 - 19:45:07
-    End: 09/08/2026 - 19:45:28
-    Time elapsed: 00h 00m 21s 234.462823ms
+    Start: 11/08/2026 - 17:27:45
+    End: 11/08/2026 - 17:28:10
+    Time elapsed: 00h 00m 26s 579.941162ms
     Status: STOPPED
-    Total Time: 21.234463 seconds
-    Main Time (without subprocesses): 0.003917 seconds
+    Total Time: 25.579941 seconds
+    Main Time (without subprocesses): 0.004223 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000017): 4.454134s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000018): 8.637143s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000019): 8.139269s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000017): 5.341443s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000018): 10.728925s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000019): 9.505350s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 21.230546 seconds
+    TOTAL SUBPROCESSES: 25.575718 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -312,32 +312,32 @@ SUBPROCESSES: 1
     ID: 000000000000016
     Name: _SYSTEM_ROTULOS_1-011111111_130X200_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 21230.546028
+    SumOfTimes: 25575.718210
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4454.134450
-    MoreSlowerTime: 8637.143032
-    Average: 7076.848676
+    MoreFastTime: 5341.443133
+    MoreSlowerTime: 10728.924914
+    Average: 8525.239403
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [5] _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_PNG (ID: 000000000000020): 21.234593s (STOPPED)
+  [5] _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_PNG (ID: 000000000000020): 25.263567s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_PNG (ID: 000000000000020)
     ====================================================================================
-    Start: 09/08/2026 - 19:45:28
-    End: 09/08/2026 - 19:45:49
-    Time elapsed: 00h 00m 21s 234.593440ms
+    Start: 11/08/2026 - 17:28:10
+    End: 11/08/2026 - 17:28:35
+    Time elapsed: 00h 00m 25s 263.567182ms
     Status: STOPPED
-    Total Time: 21.234593 seconds
-    Main Time (without subprocesses): 0.005104 seconds
+    Total Time: 25.263567 seconds
+    Main Time (without subprocesses): 0.004730 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000021): 4.592287s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000022): 8.577048s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000023): 8.060155s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000021): 5.277624s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000022): 10.296519s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000023): 9.684693s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 21.229490 seconds
+    TOTAL SUBPROCESSES: 25.258837 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -346,32 +346,32 @@ SUBPROCESSES: 1
     ID: 000000000000020
     Name: _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 21229.489618
+    SumOfTimes: 25258.837144
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4592.287015
-    MoreSlowerTime: 8577.047816
-    Average: 7076.496539
+    MoreFastTime: 5277.624238
+    MoreSlowerTime: 10296.519489
+    Average: 8419.612381
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [6] _SYSTEM_ROTULOS_2-022222222_130X115_V2_BAIXA_PNG (ID: 000000000000024): 22.921447s (STOPPED)
+  [6] _SYSTEM_ROTULOS_2-022222222_130X115_V2_BAIXA_PNG (ID: 000000000000024): 28.374354s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_2-022222222_130X115_V2_BAIXA_PNG (ID: 000000000000024)
     ====================================================================================
-    Start: 09/08/2026 - 19:45:49
-    End: 09/08/2026 - 19:46:12
-    Time elapsed: 00h 00m 23s 921.446551ms
+    Start: 11/08/2026 - 17:28:35
+    End: 11/08/2026 - 17:29:04
+    Time elapsed: 00h 00m 28s 374.353691ms
     Status: STOPPED
-    Total Time: 22.921447 seconds
-    Main Time (without subprocesses): 0.003849 seconds
+    Total Time: 28.374354 seconds
+    Main Time (without subprocesses): 0.005532 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000025): 4.716578s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000026): 10.029902s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000027): 8.171117s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000025): 5.685658s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000026): 12.107793s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000027): 10.575371s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 22.917597 seconds
+    TOTAL SUBPROCESSES: 28.368822 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -380,32 +380,32 @@ SUBPROCESSES: 1
     ID: 000000000000024
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_BAIXA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 22917.597139
+    SumOfTimes: 28368.821640
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4716.577595
-    MoreSlowerTime: 10029.902221
-    Average: 7639.199046
+    MoreFastTime: 5685.657784
+    MoreSlowerTime: 12107.793308
+    Average: 9456.273880
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [7] _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_JPG (ID: 000000000000028): 23.952826s (STOPPED)
+  [7] _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_JPG (ID: 000000000000028): 29.625786s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_JPG (ID: 000000000000028)
     ====================================================================================
-    Start: 09/08/2026 - 19:46:12
-    End: 09/08/2026 - 19:46:36
-    Time elapsed: 00h 00m 24s 952.825840ms
+    Start: 11/08/2026 - 17:29:04
+    End: 11/08/2026 - 17:29:33
+    Time elapsed: 00h 00m 30s 625.786448ms
     Status: STOPPED
-    Total Time: 23.952826 seconds
-    Main Time (without subprocesses): 0.004734 seconds
+    Total Time: 29.625786 seconds
+    Main Time (without subprocesses): 0.005547 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000029): 4.781793s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000030): 9.776896s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000031): 9.389402s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000029): 6.112495s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000030): 12.227216s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000031): 11.280529s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 23.948092 seconds
+    TOTAL SUBPROCESSES: 29.620240 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -414,32 +414,32 @@ SUBPROCESSES: 1
     ID: 000000000000028
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 23948.091896
+    SumOfTimes: 29620.239749
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4781.793234
-    MoreSlowerTime: 9776.896447
-    Average: 7982.697299
+    MoreFastTime: 6112.495025
+    MoreSlowerTime: 12227.215664
+    Average: 9873.413250
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [8] _SYSTEM_ROTULOS_4-044444444_130X160_PNG (ID: 000000000000032): 24.031417s (STOPPED)
+  [8] _SYSTEM_ROTULOS_4-044444444_130X160_PNG (ID: 000000000000032): 28.593782s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_4-044444444_130X160_PNG (ID: 000000000000032)
     ====================================================================================
-    Start: 09/08/2026 - 19:46:36
-    End: 09/08/2026 - 19:47:00
-    Time elapsed: 00h 00m 24s 31.416643ms
+    Start: 11/08/2026 - 17:29:33
+    End: 11/08/2026 - 17:30:02
+    Time elapsed: 00h 00m 29s 593.781907ms
     Status: STOPPED
-    Total Time: 24.031417 seconds
-    Main Time (without subprocesses): 0.005055 seconds
+    Total Time: 28.593782 seconds
+    Main Time (without subprocesses): 0.004866 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000033): 4.982581s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000034): 9.748472s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000035): 9.295308s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000033): 5.700351s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000034): 12.217780s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000035): 10.670786s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 24.026361 seconds
+    TOTAL SUBPROCESSES: 28.588916 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -448,32 +448,32 @@ SUBPROCESSES: 1
     ID: 000000000000032
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 24026.361406
+    SumOfTimes: 28588.916125
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4982.581086
-    MoreSlowerTime: 9748.472271
-    Average: 8008.787135
+    MoreFastTime: 5700.350590
+    MoreSlowerTime: 12217.779514
+    Average: 9529.638708
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [9] _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_JPG (ID: 000000000000036): 24.061915s (STOPPED)
+  [9] _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_JPG (ID: 000000000000036): 31.125344s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_JPG (ID: 000000000000036)
     ====================================================================================
-    Start: 09/08/2026 - 19:47:00
-    End: 09/08/2026 - 19:47:24
-    Time elapsed: 00h 00m 24s 61.915062ms
+    Start: 11/08/2026 - 17:30:02
+    End: 11/08/2026 - 17:30:33
+    Time elapsed: 00h 00m 31s 125.343571ms
     Status: STOPPED
-    Total Time: 24.061915 seconds
-    Main Time (without subprocesses): 0.005689 seconds
+    Total Time: 31.125344 seconds
+    Main Time (without subprocesses): 0.005717 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000037): 4.927260s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000038): 10.083761s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000039): 9.045205s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000037): 5.902159s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000038): 14.076422s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000039): 11.141045s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 24.056226 seconds
+    TOTAL SUBPROCESSES: 31.119626 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -482,32 +482,32 @@ SUBPROCESSES: 1
     ID: 000000000000036
     Name: _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 24056.226028
+    SumOfTimes: 31119.626461
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4927.260343
-    MoreSlowerTime: 10083.760544
-    Average: 8018.742009
+    MoreFastTime: 5902.159206
+    MoreSlowerTime: 14076.421832
+    Average: 10373.208820
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [10] _SYSTEM_ROTULOS_1-011111111_130X200_JPG (ID: 000000000000040): 23.655969s (STOPPED)
+  [10] _SYSTEM_ROTULOS_1-011111111_130X200_JPG (ID: 000000000000040): 28.634038s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_1-011111111_130X200_JPG (ID: 000000000000040)
     ====================================================================================
-    Start: 09/08/2026 - 19:47:24
-    End: 09/08/2026 - 19:47:48
-    Time elapsed: 00h 00m 24s 655.968700ms
+    Start: 11/08/2026 - 17:30:33
+    End: 11/08/2026 - 17:31:02
+    Time elapsed: 00h 00m 29s 634.037525ms
     Status: STOPPED
-    Total Time: 23.655969 seconds
-    Main Time (without subprocesses): 0.003769 seconds
+    Total Time: 28.634038 seconds
+    Main Time (without subprocesses): 0.005530 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000041): 4.826748s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000042): 10.139312s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000043): 8.686139s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000041): 6.198686s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000042): 12.217996s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000043): 10.211825s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 23.652200 seconds
+    TOTAL SUBPROCESSES: 28.628507 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -516,32 +516,32 @@ SUBPROCESSES: 1
     ID: 000000000000040
     Name: _SYSTEM_ROTULOS_1-011111111_130X200_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 23652.199856
+    SumOfTimes: 28628.507184
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4826.748129
-    MoreSlowerTime: 10139.312248
-    Average: 7884.066619
+    MoreFastTime: 6198.686263
+    MoreSlowerTime: 12217.995581
+    Average: 9542.835728
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [11] _SYSTEM_ROTULOS_4-044444444_130X160_ALTA_JPG (ID: 000000000000044): 28.398292s (STOPPED)
+  [11] _SYSTEM_ROTULOS_4-044444444_130X160_ALTA_JPG (ID: 000000000000044): 32.755672s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_4-044444444_130X160_ALTA_JPG (ID: 000000000000044)
     ====================================================================================
-    Start: 09/08/2026 - 19:47:48
-    End: 09/08/2026 - 19:48:16
-    Time elapsed: 00h 00m 28s 398.291972ms
+    Start: 11/08/2026 - 17:31:02
+    End: 11/08/2026 - 17:31:35
+    Time elapsed: 00h 00m 33s 755.672066ms
     Status: STOPPED
-    Total Time: 28.398292 seconds
-    Main Time (without subprocesses): 0.004390 seconds
+    Total Time: 32.755672 seconds
+    Main Time (without subprocesses): 0.006878 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000045): 4.873740s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000046): 11.310420s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000047): 12.209742s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000045): 5.843021s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000046): 13.150188s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000047): 13.755585s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 28.393902 seconds
+    TOTAL SUBPROCESSES: 32.748794 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -550,32 +550,32 @@ SUBPROCESSES: 1
     ID: 000000000000044
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 28393.901536
+    SumOfTimes: 32748.794297
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 3___TST_CPYS2TZIP
-    MoreFastTime: 4873.739669
-    MoreSlowerTime: 12209.742306
-    Average: 9464.633845
+    MoreFastTime: 5843.020789
+    MoreSlowerTime: 13755.585395
+    Average: 10916.264766
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [12] _SYSTEM_ROTULOS_4-044444444_130X160_JPG (ID: 000000000000048): 27.195129s (STOPPED)
+  [12] _SYSTEM_ROTULOS_4-044444444_130X160_JPG (ID: 000000000000048): 34.043204s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_4-044444444_130X160_JPG (ID: 000000000000048)
     ====================================================================================
-    Start: 09/08/2026 - 19:48:16
-    End: 09/08/2026 - 19:48:44
-    Time elapsed: 00h 00m 27s 195.128847ms
+    Start: 11/08/2026 - 17:31:35
+    End: 11/08/2026 - 17:32:09
+    Time elapsed: 00h 00m 34s 43.203652ms
     Status: STOPPED
-    Total Time: 27.195129 seconds
-    Main Time (without subprocesses): 0.004281 seconds
+    Total Time: 34.043204 seconds
+    Main Time (without subprocesses): 0.005813 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000049): 5.116310s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000050): 12.248077s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000051): 9.826462s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000049): 6.293180s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000050): 15.904884s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000051): 11.839327s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 27.190848 seconds
+    TOTAL SUBPROCESSES: 34.037391 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -584,32 +584,32 @@ SUBPROCESSES: 1
     ID: 000000000000048
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 27190.848277
+    SumOfTimes: 34037.390837
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5116.309770
-    MoreSlowerTime: 12248.077003
-    Average: 9063.616092
+    MoreFastTime: 6293.180092
+    MoreSlowerTime: 15904.883605
+    Average: 11345.796946
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [13] _SYSTEM_ROTULOS_3-033333333_130X300_ALTA_JPG (ID: 000000000000052): 26.782703s (STOPPED)
+  [13] _SYSTEM_ROTULOS_3-033333333_130X300_ALTA_JPG (ID: 000000000000052): 34.128030s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_3-033333333_130X300_ALTA_JPG (ID: 000000000000052)
     ====================================================================================
-    Start: 09/08/2026 - 19:48:44
-    End: 09/08/2026 - 19:49:10
-    Time elapsed: 00h 00m 27s 782.702914ms
+    Start: 11/08/2026 - 17:32:09
+    End: 11/08/2026 - 17:32:43
+    Time elapsed: 00h 00m 34s 128.029883ms
     Status: STOPPED
-    Total Time: 26.782703 seconds
-    Main Time (without subprocesses): 0.005537 seconds
+    Total Time: 34.128030 seconds
+    Main Time (without subprocesses): 0.015160 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000053): 5.185057s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000054): 11.747986s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000055): 9.844123s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000053): 6.333354s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000054): 16.358517s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000055): 11.420999s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 26.777166 seconds
+    TOTAL SUBPROCESSES: 34.112870 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -618,32 +618,32 @@ SUBPROCESSES: 1
     ID: 000000000000052
     Name: _SYSTEM_ROTULOS_3-033333333_130X300_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 26777.165981
+    SumOfTimes: 34112.869786
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5185.056947
-    MoreSlowerTime: 11747.986181
-    Average: 8925.721994
+    MoreFastTime: 6333.354411
+    MoreSlowerTime: 16358.516583
+    Average: 11370.956595
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [14] _SYSTEM_ROTULOS_3-033333333_130X300_JPG (ID: 000000000000056): 28.498689s (STOPPED)
+  [14] _SYSTEM_ROTULOS_3-033333333_130X300_JPG (ID: 000000000000056): 32.763946s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_3-033333333_130X300_JPG (ID: 000000000000056)
     ====================================================================================
-    Start: 09/08/2026 - 19:49:10
-    End: 09/08/2026 - 19:49:39
-    Time elapsed: 00h 00m 28s 498.689193ms
+    Start: 11/08/2026 - 17:32:43
+    End: 11/08/2026 - 17:33:16
+    Time elapsed: 00h 00m 33s 763.945849ms
     Status: STOPPED
-    Total Time: 28.498689 seconds
-    Main Time (without subprocesses): 0.003408 seconds
+    Total Time: 32.763946 seconds
+    Main Time (without subprocesses): 0.004801 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000057): 6.013630s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000058): 12.450889s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000059): 10.030763s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000057): 5.965375s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000058): 14.607551s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000059): 12.186218s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 28.495281 seconds
+    TOTAL SUBPROCESSES: 32.759145 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -652,32 +652,32 @@ SUBPROCESSES: 1
     ID: 000000000000056
     Name: _SYSTEM_ROTULOS_3-033333333_130X300_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 28495.281192
+    SumOfTimes: 32759.144521
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 6013.629805
-    MoreSlowerTime: 12450.888805
-    Average: 9498.427064
+    MoreFastTime: 5965.375066
+    MoreSlowerTime: 14607.551362
+    Average: 10919.714840
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [15] _SYSTEM_ROTULOS_3-033333333_130X300_ALTA_PNG (ID: 000000000000060): 30.066045s (STOPPED)
+  [15] _SYSTEM_ROTULOS_3-033333333_130X300_ALTA_PNG (ID: 000000000000060): 37.609125s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_3-033333333_130X300_ALTA_PNG (ID: 000000000000060)
     ====================================================================================
-    Start: 09/08/2026 - 19:49:39
-    End: 09/08/2026 - 19:50:09
-    Time elapsed: 00h 00m 30s 66.045240ms
+    Start: 11/08/2026 - 17:33:16
+    End: 11/08/2026 - 17:33:53
+    Time elapsed: 00h 00m 38s 609.125355ms
     Status: STOPPED
-    Total Time: 30.066045 seconds
-    Main Time (without subprocesses): 0.005963 seconds
+    Total Time: 37.609125 seconds
+    Main Time (without subprocesses): 0.006134 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000061): 5.185703s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000062): 12.670305s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000063): 12.204075s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000061): 6.075435s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000062): 15.809732s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000063): 15.717824s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 30.060082 seconds
+    TOTAL SUBPROCESSES: 37.602991 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -686,32 +686,32 @@ SUBPROCESSES: 1
     ID: 000000000000060
     Name: _SYSTEM_ROTULOS_3-033333333_130X300_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 30060.082032
+    SumOfTimes: 37602.991491
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5185.702950
-    MoreSlowerTime: 12670.304569
-    Average: 10020.027344
+    MoreFastTime: 6075.434759
+    MoreSlowerTime: 15809.732296
+    Average: 12534.330497
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [16] _SYSTEM_ROTULOS_3-033333333_130X300_PNG (ID: 000000000000064): 29.789839s (STOPPED)
+  [16] _SYSTEM_ROTULOS_3-033333333_130X300_PNG (ID: 000000000000064): 36.640305s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_3-033333333_130X300_PNG (ID: 000000000000064)
     ====================================================================================
-    Start: 09/08/2026 - 19:50:09
-    End: 09/08/2026 - 19:50:39
-    Time elapsed: 00h 00m 30s 789.839231ms
+    Start: 11/08/2026 - 17:33:53
+    End: 11/08/2026 - 17:34:30
+    Time elapsed: 00h 00m 37s 640.305180ms
     Status: STOPPED
-    Total Time: 29.789839 seconds
-    Main Time (without subprocesses): 0.005987 seconds
+    Total Time: 36.640305 seconds
+    Main Time (without subprocesses): 0.005162 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000065): 5.180772s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000066): 12.326315s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000067): 12.276765s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000065): 6.200980s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000066): 15.701954s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000067): 14.732210s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 29.783853 seconds
+    TOTAL SUBPROCESSES: 36.635143 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -720,32 +720,32 @@ SUBPROCESSES: 1
     ID: 000000000000064
     Name: _SYSTEM_ROTULOS_3-033333333_130X300_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 29783.852586
+    SumOfTimes: 36635.143251
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5180.772470
-    MoreSlowerTime: 12326.315019
-    Average: 9927.950862
+    MoreFastTime: 6200.979748
+    MoreSlowerTime: 15701.953637
+    Average: 12211.714417
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [17] _SYSTEM_ROTULOS_5-055555555_70X113_JPG (ID: 000000000000068): 28.315389s (STOPPED)
+  [17] _SYSTEM_ROTULOS_5-055555555_70X113_JPG (ID: 000000000000068): 33.015352s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_5-055555555_70X113_JPG (ID: 000000000000068)
     ====================================================================================
-    Start: 09/08/2026 - 19:50:39
-    End: 09/08/2026 - 19:51:07
-    Time elapsed: 00h 00m 28s 315.389104ms
+    Start: 11/08/2026 - 17:34:30
+    End: 11/08/2026 - 17:35:03
+    Time elapsed: 00h 00m 33s 15.351506ms
     Status: STOPPED
-    Total Time: 28.315389 seconds
-    Main Time (without subprocesses): 0.007031 seconds
+    Total Time: 33.015352 seconds
+    Main Time (without subprocesses): 0.004128 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000069): 5.266276s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000070): 12.779263s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000071): 10.262819s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000069): 6.169815s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000070): 15.108800s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000071): 11.732609s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 28.308359 seconds
+    TOTAL SUBPROCESSES: 33.011224 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -754,32 +754,32 @@ SUBPROCESSES: 1
     ID: 000000000000068
     Name: _SYSTEM_ROTULOS_5-055555555_70X113_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 28308.358500
+    SumOfTimes: 33011.223526
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5266.276444
-    MoreSlowerTime: 12779.262930
-    Average: 9436.119500
+    MoreFastTime: 6169.814573
+    MoreSlowerTime: 15108.800400
+    Average: 11003.741175
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [18] _SYSTEM_ROTULOS_5-055555555_70X113_ALTA_JPG (ID: 000000000000072): 28.280393s (STOPPED)
+  [18] _SYSTEM_ROTULOS_5-055555555_70X113_ALTA_JPG (ID: 000000000000072): 34.077853s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_5-055555555_70X113_ALTA_JPG (ID: 000000000000072)
     ====================================================================================
-    Start: 09/08/2026 - 19:51:07
-    End: 09/08/2026 - 19:51:35
-    Time elapsed: 00h 00m 28s 280.392583ms
+    Start: 11/08/2026 - 17:35:03
+    End: 11/08/2026 - 17:35:37
+    Time elapsed: 00h 00m 34s 77.852757ms
     Status: STOPPED
-    Total Time: 28.280393 seconds
-    Main Time (without subprocesses): 0.005693 seconds
+    Total Time: 34.077853 seconds
+    Main Time (without subprocesses): 0.005377 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000073): 5.372632s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000074): 12.559204s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000075): 10.342863s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000073): 5.965721s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000074): 16.530376s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000075): 11.576378s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 28.274699 seconds
+    TOTAL SUBPROCESSES: 34.072475 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -788,32 +788,32 @@ SUBPROCESSES: 1
     ID: 000000000000072
     Name: _SYSTEM_ROTULOS_5-055555555_70X113_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 28274.699398
+    SumOfTimes: 34072.475493
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5372.632234
-    MoreSlowerTime: 12559.204336
-    Average: 9424.899799
+    MoreFastTime: 5965.721017
+    MoreSlowerTime: 16530.376347
+    Average: 11357.491831
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [19] _SYSTEM_ROTULOS_5-055555555_70X113_PNG (ID: 000000000000076): 31.874603s (STOPPED)
+  [19] _SYSTEM_ROTULOS_5-055555555_70X113_PNG (ID: 000000000000076): 35.813749s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_5-055555555_70X113_PNG (ID: 000000000000076)
     ====================================================================================
-    Start: 09/08/2026 - 19:51:35
-    End: 09/08/2026 - 19:52:07
-    Time elapsed: 00h 00m 32s 874.603206ms
+    Start: 11/08/2026 - 17:35:37
+    End: 11/08/2026 - 17:36:13
+    Time elapsed: 00h 00m 36s 813.749191ms
     Status: STOPPED
-    Total Time: 31.874603 seconds
-    Main Time (without subprocesses): 0.004722 seconds
+    Total Time: 35.813749 seconds
+    Main Time (without subprocesses): 0.004451 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000077): 5.481241s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000078): 13.296757s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000079): 13.091883s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000077): 5.919687s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000078): 15.236039s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000079): 14.653572s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 31.869881 seconds
+    TOTAL SUBPROCESSES: 35.809298 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -822,32 +822,32 @@ SUBPROCESSES: 1
     ID: 000000000000076
     Name: _SYSTEM_ROTULOS_5-055555555_70X113_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 31869.880980
+    SumOfTimes: 35809.298453
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5481.241470
-    MoreSlowerTime: 13296.756796
-    Average: 10623.293660
+    MoreFastTime: 5919.687496
+    MoreSlowerTime: 15236.038770
+    Average: 11936.432818
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [20] _SYSTEM_ROTULOS_5-055555555_70X113_ALTA_PNG (ID: 000000000000080): 31.515490s (STOPPED)
+  [20] _SYSTEM_ROTULOS_5-055555555_70X113_ALTA_PNG (ID: 000000000000080): 36.398321s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_5-055555555_70X113_ALTA_PNG (ID: 000000000000080)
     ====================================================================================
-    Start: 09/08/2026 - 19:52:07
-    End: 09/08/2026 - 19:52:39
-    Time elapsed: 00h 00m 32s 515.490180ms
+    Start: 11/08/2026 - 17:36:13
+    End: 11/08/2026 - 17:36:49
+    Time elapsed: 00h 00m 36s 398.321269ms
     Status: STOPPED
-    Total Time: 31.515490 seconds
-    Main Time (without subprocesses): 0.003954 seconds
+    Total Time: 36.398321 seconds
+    Main Time (without subprocesses): 0.007992 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000081): 5.575680s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000082): 13.109270s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000083): 12.826587s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000081): 5.995374s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000082): 15.170744s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000083): 15.224211s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 31.511536 seconds
+    TOTAL SUBPROCESSES: 36.390330 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -856,32 +856,32 @@ SUBPROCESSES: 1
     ID: 000000000000080
     Name: _SYSTEM_ROTULOS_5-055555555_70X113_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 31511.535785
+    SumOfTimes: 36390.329716
     MoreFast: 1___TST_FILECOPY
-    MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5575.679635
-    MoreSlowerTime: 13109.269644
-    Average: 10503.845262
+    MoreSlower: 3___TST_CPYS2TZIP
+    MoreFastTime: 5995.374211
+    MoreSlowerTime: 15224.211477
+    Average: 12130.109905
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [21] _SYSTEM_ROTULOS_2-022222222_130X115_PNG (ID: 000000000000084): 32.421523s (STOPPED)
+  [21] _SYSTEM_ROTULOS_2-022222222_130X115_PNG (ID: 000000000000084): 37.318451s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_2-022222222_130X115_PNG (ID: 000000000000084)
     ====================================================================================
-    Start: 09/08/2026 - 19:52:39
-    End: 09/08/2026 - 19:53:11
-    Time elapsed: 00h 00m 32s 421.523211ms
+    Start: 11/08/2026 - 17:36:49
+    End: 11/08/2026 - 17:37:26
+    Time elapsed: 00h 00m 37s 318.450665ms
     Status: STOPPED
-    Total Time: 32.421523 seconds
-    Main Time (without subprocesses): 0.003909 seconds
+    Total Time: 37.318451 seconds
+    Main Time (without subprocesses): 0.006182 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000085): 5.564607s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000086): 13.838560s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000087): 13.014448s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000085): 6.549598s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000086): 16.093181s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000087): 14.669490s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 32.417614 seconds
+    TOTAL SUBPROCESSES: 37.312268 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -890,32 +890,32 @@ SUBPROCESSES: 1
     ID: 000000000000084
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 32417.614229
+    SumOfTimes: 37312.268460
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5564.606502
-    MoreSlowerTime: 13838.560041
-    Average: 10805.871410
+    MoreFastTime: 6549.598018
+    MoreSlowerTime: 16093.180825
+    Average: 12437.422820
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [22] _SYSTEM_ROTULOS_2-022222222_130X115_ALTA_PNG (ID: 000000000000088): 35.015223s (STOPPED)
+  [22] _SYSTEM_ROTULOS_2-022222222_130X115_ALTA_PNG (ID: 000000000000088): 37.469369s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_2-022222222_130X115_ALTA_PNG (ID: 000000000000088)
     ====================================================================================
-    Start: 09/08/2026 - 19:53:11
-    End: 09/08/2026 - 19:53:46
-    Time elapsed: 00h 00m 35s 15.222598ms
+    Start: 11/08/2026 - 17:37:26
+    End: 11/08/2026 - 17:38:04
+    Time elapsed: 00h 00m 37s 469.369499ms
     Status: STOPPED
-    Total Time: 35.015223 seconds
-    Main Time (without subprocesses): 0.006346 seconds
+    Total Time: 37.469369 seconds
+    Main Time (without subprocesses): 0.005647 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000089): 8.467763s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000090): 13.902551s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000091): 12.638563s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000089): 6.435531s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000090): 16.013334s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000091): 15.014857s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 35.008877 seconds
+    TOTAL SUBPROCESSES: 37.463723 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -924,32 +924,32 @@ SUBPROCESSES: 1
     ID: 000000000000088
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 35008.877061
+    SumOfTimes: 37463.722701
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 8467.763034
-    MoreSlowerTime: 13902.551056
-    Average: 11669.625687
+    MoreFastTime: 6435.531195
+    MoreSlowerTime: 16013.334147
+    Average: 12487.907567
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [23] _SYSTEM_ROTULOS_4-044444444_130X160_ALTA_BMP (ID: 000000000000092): 29.546993s (STOPPED)
+  [23] _SYSTEM_ROTULOS_4-044444444_130X160_ALTA_BMP (ID: 000000000000092): 37.061047s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_4-044444444_130X160_ALTA_BMP (ID: 000000000000092)
     ====================================================================================
-    Start: 09/08/2026 - 19:53:46
-    End: 09/08/2026 - 19:54:16
-    Time elapsed: 00h 00m 30s 546.993494ms
+    Start: 11/08/2026 - 17:38:04
+    End: 11/08/2026 - 17:38:41
+    Time elapsed: 00h 00m 37s 61.046644ms
     Status: STOPPED
-    Total Time: 29.546993 seconds
-    Main Time (without subprocesses): 0.003847 seconds
+    Total Time: 37.061047 seconds
+    Main Time (without subprocesses): 0.004769 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000093): 6.654011s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000094): 18.608673s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000095): 4.280462s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000093): 7.387599s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000094): 23.233148s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000095): 6.435531s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 29.543146 seconds
+    TOTAL SUBPROCESSES: 37.056278 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -958,32 +958,32 @@ SUBPROCESSES: 1
     ID: 000000000000092
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_ALTA_BMP
     NumberOfIntervals: 3
-    SumOfTimes: 29543.146034
+    SumOfTimes: 37056.277543
     MoreFast: 3___TST_CPYS2TZIP
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4280.461676
-    MoreSlowerTime: 18608.673202
-    Average: 9847.715345
+    MoreFastTime: 6435.530951
+    MoreSlowerTime: 23233.147866
+    Average: 12352.092514
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [24] _SYSTEM_ROTULOS_4-044444444_130X160_BMP (ID: 000000000000096): 41.452968s (STOPPED)
+  [24] _SYSTEM_ROTULOS_4-044444444_130X160_BMP (ID: 000000000000096): 40.780968s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_4-044444444_130X160_BMP (ID: 000000000000096)
     ====================================================================================
-    Start: 09/08/2026 - 19:54:16
-    End: 09/08/2026 - 19:54:57
-    Time elapsed: 00h 00m 41s 452.968420ms
+    Start: 11/08/2026 - 17:38:41
+    End: 11/08/2026 - 17:39:22
+    Time elapsed: 00h 00m 41s 780.967785ms
     Status: STOPPED
-    Total Time: 41.452968 seconds
-    Main Time (without subprocesses): 0.006827 seconds
+    Total Time: 40.780968 seconds
+    Main Time (without subprocesses): 0.004628 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000097): 6.529959s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000098): 27.889206s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000099): 7.026976s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000097): 9.685486s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000098): 26.171211s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000099): 4.919643s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 41.446141 seconds
+    TOTAL SUBPROCESSES: 40.776340 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -992,32 +992,32 @@ SUBPROCESSES: 1
     ID: 000000000000096
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_BMP
     NumberOfIntervals: 3
-    SumOfTimes: 41446.141189
-    MoreFast: 1___TST_FILECOPY
+    SumOfTimes: 40776.339555
+    MoreFast: 3___TST_CPYS2TZIP
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 6529.959106
-    MoreSlowerTime: 27889.206411
-    Average: 13815.380396
+    MoreFastTime: 4919.642574
+    MoreSlowerTime: 26171.211074
+    Average: 13592.113185
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [25] _SYSTEM_ROTULOS_2-022222222_130X115_ALTA_JPG (ID: 000000000000100): 56.640399s (STOPPED)
+  [25] _SYSTEM_ROTULOS_2-022222222_130X115_ALTA_JPG (ID: 000000000000100): 50.936892s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_2-022222222_130X115_ALTA_JPG (ID: 000000000000100)
     ====================================================================================
-    Start: 09/08/2026 - 19:54:57
-    End: 09/08/2026 - 19:55:54
-    Time elapsed: 00h 00m 57s 640.398687ms
+    Start: 11/08/2026 - 17:39:22
+    End: 11/08/2026 - 17:40:13
+    Time elapsed: 00h 00m 51s 936.892052ms
     Status: STOPPED
-    Total Time: 56.640399 seconds
-    Main Time (without subprocesses): 0.003979 seconds
+    Total Time: 50.936892 seconds
+    Main Time (without subprocesses): 0.004297 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000101): 13.092263s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000102): 27.451292s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000103): 16.092865s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000101): 8.451960s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000102): 22.528438s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000103): 19.952197s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 56.636420 seconds
+    TOTAL SUBPROCESSES: 50.932595 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -1026,32 +1026,32 @@ SUBPROCESSES: 1
     ID: 000000000000100
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 56636.420123
+    SumOfTimes: 50932.594636
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 13092.263333
-    MoreSlowerTime: 27451.291642
-    Average: 18878.806708
+    MoreFastTime: 8451.959619
+    MoreSlowerTime: 22528.438335
+    Average: 16977.531545
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [26] _SYSTEM_ROTULOS_2-022222222_130X115_JPG (ID: 000000000000104): 42.811932s (STOPPED)
+  [26] _SYSTEM_ROTULOS_2-022222222_130X115_JPG (ID: 000000000000104): 48.531632s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_2-022222222_130X115_JPG (ID: 000000000000104)
     ====================================================================================
-    Start: 09/08/2026 - 19:55:54
-    End: 09/08/2026 - 19:56:37
-    Time elapsed: 00h 00m 43s 811.931542ms
+    Start: 11/08/2026 - 17:40:13
+    End: 11/08/2026 - 17:41:01
+    Time elapsed: 00h 00m 49s 531.631733ms
     Status: STOPPED
-    Total Time: 42.811932 seconds
-    Main Time (without subprocesses): 0.003993 seconds
+    Total Time: 48.531632 seconds
+    Main Time (without subprocesses): 0.004138 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000105): 7.203978s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000106): 19.388316s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000107): 16.215645s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000105): 7.502946s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000106): 21.807263s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000107): 19.217286s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 42.807939 seconds
+    TOTAL SUBPROCESSES: 48.527494 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -1060,32 +1060,32 @@ SUBPROCESSES: 1
     ID: 000000000000104
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 42807.938818
+    SumOfTimes: 48527.493744
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 7203.978076
-    MoreSlowerTime: 19388.315775
-    Average: 14269.312939
+    MoreFastTime: 7502.945592
+    MoreSlowerTime: 21807.262540
+    Average: 16175.831248
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [27] _SYSTEM_ROTULOS_2-022222222_130X115_V2_PNG (ID: 000000000000108): 44.922206s (STOPPED)
+  [27] _SYSTEM_ROTULOS_2-022222222_130X115_V2_PNG (ID: 000000000000108): 50.953677s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_2-022222222_130X115_V2_PNG (ID: 000000000000108)
     ====================================================================================
-    Start: 09/08/2026 - 19:56:37
-    End: 09/08/2026 - 19:57:22
-    Time elapsed: 00h 00m 45s 922.205594ms
+    Start: 11/08/2026 - 17:41:01
+    End: 11/08/2026 - 17:41:52
+    Time elapsed: 00h 00m 51s 953.677169ms
     Status: STOPPED
-    Total Time: 44.922206 seconds
-    Main Time (without subprocesses): 0.003835 seconds
+    Total Time: 50.953677 seconds
+    Main Time (without subprocesses): 0.004278 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000109): 6.795297s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000110): 22.844348s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000111): 15.278725s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000109): 8.092914s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000110): 24.980967s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000111): 17.875518s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 44.918370 seconds
+    TOTAL SUBPROCESSES: 50.949399 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -1094,32 +1094,32 @@ SUBPROCESSES: 1
     ID: 000000000000108
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 44918.370098
+    SumOfTimes: 50949.399285
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 6795.297306
-    MoreSlowerTime: 22844.347710
-    Average: 14972.790033
+    MoreFastTime: 8092.914220
+    MoreSlowerTime: 24980.966565
+    Average: 16983.133095
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [28] _SYSTEM_ROTULOS_2-022222222_130X115_V2_ALTA_PNG (ID: 000000000000112): 43.233807s (STOPPED)
+  [28] _SYSTEM_ROTULOS_2-022222222_130X115_V2_ALTA_PNG (ID: 000000000000112): 50.857942s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_2-022222222_130X115_V2_ALTA_PNG (ID: 000000000000112)
     ====================================================================================
-    Start: 09/08/2026 - 19:57:22
-    End: 09/08/2026 - 19:58:05
-    Time elapsed: 00h 00m 43s 233.807054ms
+    Start: 11/08/2026 - 17:41:52
+    End: 11/08/2026 - 17:42:43
+    Time elapsed: 00h 00m 51s 857.941869ms
     Status: STOPPED
-    Total Time: 43.233807 seconds
-    Main Time (without subprocesses): 0.004086 seconds
+    Total Time: 50.857942 seconds
+    Main Time (without subprocesses): 0.004294 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000113): 6.999183s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000114): 20.481966s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000115): 15.748572s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000113): 8.169309s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000114): 24.045102s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000115): 18.639236s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 43.229721 seconds
+    TOTAL SUBPROCESSES: 50.853648 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -1128,32 +1128,32 @@ SUBPROCESSES: 1
     ID: 000000000000112
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 43229.721066
+    SumOfTimes: 50853.647627
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 6999.182851
-    MoreSlowerTime: 20481.966333
-    Average: 14409.907022
+    MoreFastTime: 8169.309196
+    MoreSlowerTime: 24045.102113
+    Average: 16951.215876
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [29] _SYSTEM_ROTULOS_2-022222222_130X115_V2_JPG (ID: 000000000000116): 47.110983s (STOPPED)
+  [29] _SYSTEM_ROTULOS_2-022222222_130X115_V2_JPG (ID: 000000000000116): 55.140930s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_2-022222222_130X115_V2_JPG (ID: 000000000000116)
     ====================================================================================
-    Start: 09/08/2026 - 19:58:05
-    End: 09/08/2026 - 19:58:52
-    Time elapsed: 00h 00m 47s 110.982800ms
+    Start: 11/08/2026 - 17:42:43
+    End: 11/08/2026 - 17:43:38
+    Time elapsed: 00h 00m 55s 140.929699ms
     Status: STOPPED
-    Total Time: 47.110983 seconds
-    Main Time (without subprocesses): 0.004202 seconds
+    Total Time: 55.140930 seconds
+    Main Time (without subprocesses): 0.004484 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000117): 7.012732s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000118): 23.250682s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000119): 16.843367s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000117): 8.779937s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000118): 24.389522s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000119): 21.966986s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 47.106781 seconds
+    TOTAL SUBPROCESSES: 55.136446 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -1162,32 +1162,32 @@ SUBPROCESSES: 1
     ID: 000000000000116
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 47106.781089
+    SumOfTimes: 55136.445513
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 7012.732089
-    MoreSlowerTime: 23250.681527
-    Average: 15702.260363
+    MoreFastTime: 8779.937011
+    MoreSlowerTime: 24389.522333
+    Average: 18378.815171
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [30] _SYSTEM_ROTULOS_2-022222222_130X115_V2_ALTA_JPG (ID: 000000000000120): 47.107226s (STOPPED)
+  [30] _SYSTEM_ROTULOS_2-022222222_130X115_V2_ALTA_JPG (ID: 000000000000120): 57.327834s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_2-022222222_130X115_V2_ALTA_JPG (ID: 000000000000120)
     ====================================================================================
-    Start: 09/08/2026 - 19:58:52
-    End: 09/08/2026 - 19:59:39
-    Time elapsed: 00h 00m 47s 107.226162ms
+    Start: 11/08/2026 - 17:43:38
+    End: 11/08/2026 - 17:44:35
+    Time elapsed: 00h 00m 57s 327.833592ms
     Status: STOPPED
-    Total Time: 47.107226 seconds
-    Main Time (without subprocesses): 0.004687 seconds
+    Total Time: 57.327834 seconds
+    Main Time (without subprocesses): 0.004226 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000121): 7.044691s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000122): 21.278330s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000123): 18.779518s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000121): 8.190918s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000122): 26.961885s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000123): 22.170804s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 47.102539 seconds
+    TOTAL SUBPROCESSES: 57.323608 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -1196,32 +1196,32 @@ SUBPROCESSES: 1
     ID: 000000000000120
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 47102.539094
+    SumOfTimes: 57323.607954
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 7044.691463
-    MoreSlowerTime: 21278.329814
-    Average: 15700.846365
+    MoreFastTime: 8190.918346
+    MoreSlowerTime: 26961.885277
+    Average: 19107.869318
     ------------------------------------------------------------------------------------
     ====================================================================================
-  [31] _SYSTEM_ROTULOS_A-033333333_PNG (ID: 000000000000124): 64.906420s (STOPPED)
+  [31] _SYSTEM_ROTULOS_A-033333333_PNG (ID: 000000000000124): 80.280820s (STOPPED)
     ====================================================================================
     PERFORMANCE REPORT: _SYSTEM_ROTULOS_A-033333333_PNG (ID: 000000000000124)
     ====================================================================================
-    Start: 09/08/2026 - 19:59:39
-    End: 09/08/2026 - 20:00:44
-    Time elapsed: 00h 01m 05s 906.420489ms
+    Start: 11/08/2026 - 17:44:35
+    End: 11/08/2026 - 17:45:56
+    Time elapsed: 00h 01m 20s 280.820323ms
     Status: STOPPED
-    Total Time: 64.906420 seconds
-    Main Time (without subprocesses): 0.005278 seconds
+    Total Time: 80.280820 seconds
+    Main Time (without subprocesses): 0.004938 seconds
     ------------------------------------------------------------------------------------
     SUBPROCESSES: 3
     ------------------------------------------------------------------------------------
-    [1] 1___TST_FILECOPY (ID: 000000000000125): 7.997865s (STOPPED)
-    [2] 2___TST_CPYS2T (ID: 000000000000126): 28.029748s (STOPPED)
-    [3] 3___TST_CPYS2TZIP (ID: 000000000000127): 28.873530s (STOPPED)
+    [1] 1___TST_FILECOPY (ID: 000000000000125): 10.122786s (STOPPED)
+    [2] 2___TST_CPYS2T (ID: 000000000000126): 37.081770s (STOPPED)
+    [3] 3___TST_CPYS2TZIP (ID: 000000000000127): 33.071326s (STOPPED)
     ------------------------------------------------------------------------------------
-    TOTAL SUBPROCESSES: 64.901143 seconds
+    TOTAL SUBPROCESSES: 80.275882 seconds
     ------------------------------------------------------------------------------------
     ====================================================================================
     STATISTICAL ANALYSIS
@@ -1230,16 +1230,16 @@ SUBPROCESSES: 1
     ID: 000000000000124
     Name: _SYSTEM_ROTULOS_A-033333333_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 64901.142836
+    SumOfTimes: 80275.882274
     MoreFast: 1___TST_FILECOPY
-    MoreSlower: 3___TST_CPYS2TZIP
-    MoreFastTime: 7997.864720
-    MoreSlowerTime: 28873.530194
-    Average: 21633.714279
+    MoreSlower: 2___TST_CPYS2T
+    MoreFastTime: 10122.786411
+    MoreSlowerTime: 37081.769553
+    Average: 26758.627425
     ------------------------------------------------------------------------------------
     ====================================================================================
   ------------------------------------------------------------------------------------
-  TOTAL SUBPROCESSES: 1064.115568 seconds
+  TOTAL SUBPROCESSES: 1245.598680 seconds
   ------------------------------------------------------------------------------------
   ====================================================================================
   STATISTICAL ANALYSIS
@@ -1248,357 +1248,357 @@ SUBPROCESSES: 1
   ID: 000000000000002
   Name: MAIN
   NumberOfIntervals: 31
-  SumOfTimes: 1064115.567575
-  MoreFast: _SYSTEM_ROTULOS_1-011111111_130X200_PNG
+  SumOfTimes: 1245598.679671
+  MoreFast: _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_PNG
   MoreSlower: _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_PNG
-  MoreFastTime: 21234.462823
-  MoreSlowerTime: 83576.113478
-  Average: 34326.308631
+  MoreFastTime: 25263.567182
+  MoreSlowerTime: 102826.042066
+  Average: 40180.602570
   ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000003
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_PNG
     NumberOfIntervals: 4
-    SumOfTimes: 83569.913695
+    SumOfTimes: 102817.545868
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 4___TST_GETDATAFROMSERVERWITHZIP
-    MoreFastTime: 6170.998914
-    MoreSlowerTime: 60812.853917
-    Average: 20892.478424
+    MoreFastTime: 7390.665413
+    MoreSlowerTime: 73795.935253
+    Average: 25704.386467
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000008
     Name: _SYSTEM_ROTULOS_7-077777777_165X148_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 21555.230655
+    SumOfTimes: 25888.723739
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4793.757248
-    MoreSlowerTime: 8466.748129
-    Average: 7185.076885
+    MoreFastTime: 5374.098561
+    MoreSlowerTime: 10443.093055
+    Average: 8629.574580
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000012
     Name: _SYSTEM_ROTULOS_7-077777777_165X148_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 21995.296085
+    SumOfTimes: 25761.347184
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4530.236941
-    MoreSlowerTime: 8904.689510
-    Average: 7331.765362
+    MoreFastTime: 5123.839158
+    MoreSlowerTime: 10826.598958
+    Average: 8587.115728
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000016
     Name: _SYSTEM_ROTULOS_1-011111111_130X200_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 21230.546028
+    SumOfTimes: 25575.718210
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4454.134450
-    MoreSlowerTime: 8637.143032
-    Average: 7076.848676
+    MoreFastTime: 5341.443133
+    MoreSlowerTime: 10728.924914
+    Average: 8525.239403
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000020
     Name: _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 21229.489618
+    SumOfTimes: 25258.837144
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4592.287015
-    MoreSlowerTime: 8577.047816
-    Average: 7076.496539
+    MoreFastTime: 5277.624238
+    MoreSlowerTime: 10296.519489
+    Average: 8419.612381
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000024
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_BAIXA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 22917.597139
+    SumOfTimes: 28368.821640
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4716.577595
-    MoreSlowerTime: 10029.902221
-    Average: 7639.199046
+    MoreFastTime: 5685.657784
+    MoreSlowerTime: 12107.793308
+    Average: 9456.273880
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000028
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 23948.091896
+    SumOfTimes: 29620.239749
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4781.793234
-    MoreSlowerTime: 9776.896447
-    Average: 7982.697299
+    MoreFastTime: 6112.495025
+    MoreSlowerTime: 12227.215664
+    Average: 9873.413250
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000032
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 24026.361406
+    SumOfTimes: 28588.916125
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4982.581086
-    MoreSlowerTime: 9748.472271
-    Average: 8008.787135
+    MoreFastTime: 5700.350590
+    MoreSlowerTime: 12217.779514
+    Average: 9529.638708
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000036
     Name: _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 24056.226028
+    SumOfTimes: 31119.626461
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4927.260343
-    MoreSlowerTime: 10083.760544
-    Average: 8018.742009
+    MoreFastTime: 5902.159206
+    MoreSlowerTime: 14076.421832
+    Average: 10373.208820
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000040
     Name: _SYSTEM_ROTULOS_1-011111111_130X200_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 23652.199856
+    SumOfTimes: 28628.507184
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4826.748129
-    MoreSlowerTime: 10139.312248
-    Average: 7884.066619
+    MoreFastTime: 6198.686263
+    MoreSlowerTime: 12217.995581
+    Average: 9542.835728
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000044
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 28393.901536
+    SumOfTimes: 32748.794297
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 3___TST_CPYS2TZIP
-    MoreFastTime: 4873.739669
-    MoreSlowerTime: 12209.742306
-    Average: 9464.633845
+    MoreFastTime: 5843.020789
+    MoreSlowerTime: 13755.585395
+    Average: 10916.264766
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000048
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 27190.848277
+    SumOfTimes: 34037.390837
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5116.309770
-    MoreSlowerTime: 12248.077003
-    Average: 9063.616092
+    MoreFastTime: 6293.180092
+    MoreSlowerTime: 15904.883605
+    Average: 11345.796946
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000052
     Name: _SYSTEM_ROTULOS_3-033333333_130X300_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 26777.165981
+    SumOfTimes: 34112.869786
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5185.056947
-    MoreSlowerTime: 11747.986181
-    Average: 8925.721994
+    MoreFastTime: 6333.354411
+    MoreSlowerTime: 16358.516583
+    Average: 11370.956595
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000056
     Name: _SYSTEM_ROTULOS_3-033333333_130X300_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 28495.281192
+    SumOfTimes: 32759.144521
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 6013.629805
-    MoreSlowerTime: 12450.888805
-    Average: 9498.427064
+    MoreFastTime: 5965.375066
+    MoreSlowerTime: 14607.551362
+    Average: 10919.714840
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000060
     Name: _SYSTEM_ROTULOS_3-033333333_130X300_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 30060.082032
+    SumOfTimes: 37602.991491
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5185.702950
-    MoreSlowerTime: 12670.304569
-    Average: 10020.027344
+    MoreFastTime: 6075.434759
+    MoreSlowerTime: 15809.732296
+    Average: 12534.330497
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000064
     Name: _SYSTEM_ROTULOS_3-033333333_130X300_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 29783.852586
+    SumOfTimes: 36635.143251
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5180.772470
-    MoreSlowerTime: 12326.315019
-    Average: 9927.950862
+    MoreFastTime: 6200.979748
+    MoreSlowerTime: 15701.953637
+    Average: 12211.714417
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000068
     Name: _SYSTEM_ROTULOS_5-055555555_70X113_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 28308.358500
+    SumOfTimes: 33011.223526
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5266.276444
-    MoreSlowerTime: 12779.262930
-    Average: 9436.119500
+    MoreFastTime: 6169.814573
+    MoreSlowerTime: 15108.800400
+    Average: 11003.741175
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000072
     Name: _SYSTEM_ROTULOS_5-055555555_70X113_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 28274.699398
+    SumOfTimes: 34072.475493
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5372.632234
-    MoreSlowerTime: 12559.204336
-    Average: 9424.899799
+    MoreFastTime: 5965.721017
+    MoreSlowerTime: 16530.376347
+    Average: 11357.491831
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000076
     Name: _SYSTEM_ROTULOS_5-055555555_70X113_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 31869.880980
+    SumOfTimes: 35809.298453
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5481.241470
-    MoreSlowerTime: 13296.756796
-    Average: 10623.293660
+    MoreFastTime: 5919.687496
+    MoreSlowerTime: 15236.038770
+    Average: 11936.432818
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000080
     Name: _SYSTEM_ROTULOS_5-055555555_70X113_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 31511.535785
+    SumOfTimes: 36390.329716
     MoreFast: 1___TST_FILECOPY
-    MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5575.679635
-    MoreSlowerTime: 13109.269644
-    Average: 10503.845262
+    MoreSlower: 3___TST_CPYS2TZIP
+    MoreFastTime: 5995.374211
+    MoreSlowerTime: 15224.211477
+    Average: 12130.109905
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000084
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 32417.614229
+    SumOfTimes: 37312.268460
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5564.606502
-    MoreSlowerTime: 13838.560041
-    Average: 10805.871410
+    MoreFastTime: 6549.598018
+    MoreSlowerTime: 16093.180825
+    Average: 12437.422820
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000088
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 35008.877061
+    SumOfTimes: 37463.722701
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 8467.763034
-    MoreSlowerTime: 13902.551056
-    Average: 11669.625687
+    MoreFastTime: 6435.531195
+    MoreSlowerTime: 16013.334147
+    Average: 12487.907567
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000092
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_ALTA_BMP
     NumberOfIntervals: 3
-    SumOfTimes: 29543.146034
+    SumOfTimes: 37056.277543
     MoreFast: 3___TST_CPYS2TZIP
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4280.461676
-    MoreSlowerTime: 18608.673202
-    Average: 9847.715345
+    MoreFastTime: 6435.530951
+    MoreSlowerTime: 23233.147866
+    Average: 12352.092514
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000096
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_BMP
     NumberOfIntervals: 3
-    SumOfTimes: 41446.141189
-    MoreFast: 1___TST_FILECOPY
+    SumOfTimes: 40776.339555
+    MoreFast: 3___TST_CPYS2TZIP
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 6529.959106
-    MoreSlowerTime: 27889.206411
-    Average: 13815.380396
+    MoreFastTime: 4919.642574
+    MoreSlowerTime: 26171.211074
+    Average: 13592.113185
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000100
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 56636.420123
+    SumOfTimes: 50932.594636
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 13092.263333
-    MoreSlowerTime: 27451.291642
-    Average: 18878.806708
+    MoreFastTime: 8451.959619
+    MoreSlowerTime: 22528.438335
+    Average: 16977.531545
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000104
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 42807.938818
+    SumOfTimes: 48527.493744
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 7203.978076
-    MoreSlowerTime: 19388.315775
-    Average: 14269.312939
+    MoreFastTime: 7502.945592
+    MoreSlowerTime: 21807.262540
+    Average: 16175.831248
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000108
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 44918.370098
+    SumOfTimes: 50949.399285
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 6795.297306
-    MoreSlowerTime: 22844.347710
-    Average: 14972.790033
+    MoreFastTime: 8092.914220
+    MoreSlowerTime: 24980.966565
+    Average: 16983.133095
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000112
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 43229.721066
+    SumOfTimes: 50853.647627
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 6999.182851
-    MoreSlowerTime: 20481.966333
-    Average: 14409.907022
+    MoreFastTime: 8169.309196
+    MoreSlowerTime: 24045.102113
+    Average: 16951.215876
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000116
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 47106.781089
+    SumOfTimes: 55136.445513
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 7012.732089
-    MoreSlowerTime: 23250.681527
-    Average: 15702.260363
+    MoreFastTime: 8779.937011
+    MoreSlowerTime: 24389.522333
+    Average: 18378.815171
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000120
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 47102.539094
+    SumOfTimes: 57323.607954
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 7044.691463
-    MoreSlowerTime: 21278.329814
-    Average: 15700.846365
+    MoreFastTime: 8190.918346
+    MoreSlowerTime: 26961.885277
+    Average: 19107.869318
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000124
     Name: _SYSTEM_ROTULOS_A-033333333_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 64901.142836
+    SumOfTimes: 80275.882274
     MoreFast: 1___TST_FILECOPY
-    MoreSlower: 3___TST_CPYS2TZIP
-    MoreFastTime: 7997.864720
-    MoreSlowerTime: 28873.530194
-    Average: 21633.714279
+    MoreSlower: 2___TST_CPYS2T
+    MoreFastTime: 10122.786411
+    MoreSlowerTime: 37081.769553
+    Average: 26758.627425
     ------------------------------------------------------------------------------------
   ====================================================================================
 ------------------------------------------------------------------------------------
-TOTAL SUBPROCESSES: 1064.122650 seconds
+TOTAL SUBPROCESSES: 1245.606847 seconds
 ------------------------------------------------------------------------------------
 ====================================================================================
 STATISTICAL ANALYSIS
@@ -1607,364 +1607,364 @@ STATISTICAL ANALYSIS
 ID: 000000000000001
 Name: __CPYS2TCOPYIOPERFORM
 NumberOfIntervals: 1
-SumOfTimes: 1064122.650423
+SumOfTimes: 1245606.847496
 MoreFast: MAIN
 MoreSlower: MAIN
-MoreFastTime: 1064122.650423
-MoreSlowerTime: 1064122.650423
-Average: 1064122.650423
+MoreFastTime: 1245606.847496
+MoreSlowerTime: 1245606.847496
+Average: 1245606.847496
 ------------------------------------------------------------------------------------
   ------------------------------------------------------------------------------------
   ID: 000000000000002
   Name: MAIN
   NumberOfIntervals: 31
-  SumOfTimes: 1064115.567575
-  MoreFast: _SYSTEM_ROTULOS_1-011111111_130X200_PNG
+  SumOfTimes: 1245598.679671
+  MoreFast: _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_PNG
   MoreSlower: _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_PNG
-  MoreFastTime: 21234.462823
-  MoreSlowerTime: 83576.113478
-  Average: 34326.308631
+  MoreFastTime: 25263.567182
+  MoreSlowerTime: 102826.042066
+  Average: 40180.602570
   ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000003
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_PNG
     NumberOfIntervals: 4
-    SumOfTimes: 83569.913695
+    SumOfTimes: 102817.545868
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 4___TST_GETDATAFROMSERVERWITHZIP
-    MoreFastTime: 6170.998914
-    MoreSlowerTime: 60812.853917
-    Average: 20892.478424
+    MoreFastTime: 7390.665413
+    MoreSlowerTime: 73795.935253
+    Average: 25704.386467
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000008
     Name: _SYSTEM_ROTULOS_7-077777777_165X148_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 21555.230655
+    SumOfTimes: 25888.723739
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4793.757248
-    MoreSlowerTime: 8466.748129
-    Average: 7185.076885
+    MoreFastTime: 5374.098561
+    MoreSlowerTime: 10443.093055
+    Average: 8629.574580
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000012
     Name: _SYSTEM_ROTULOS_7-077777777_165X148_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 21995.296085
+    SumOfTimes: 25761.347184
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4530.236941
-    MoreSlowerTime: 8904.689510
-    Average: 7331.765362
+    MoreFastTime: 5123.839158
+    MoreSlowerTime: 10826.598958
+    Average: 8587.115728
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000016
     Name: _SYSTEM_ROTULOS_1-011111111_130X200_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 21230.546028
+    SumOfTimes: 25575.718210
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4454.134450
-    MoreSlowerTime: 8637.143032
-    Average: 7076.848676
+    MoreFastTime: 5341.443133
+    MoreSlowerTime: 10728.924914
+    Average: 8525.239403
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000020
     Name: _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 21229.489618
+    SumOfTimes: 25258.837144
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4592.287015
-    MoreSlowerTime: 8577.047816
-    Average: 7076.496539
+    MoreFastTime: 5277.624238
+    MoreSlowerTime: 10296.519489
+    Average: 8419.612381
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000024
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_BAIXA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 22917.597139
+    SumOfTimes: 28368.821640
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4716.577595
-    MoreSlowerTime: 10029.902221
-    Average: 7639.199046
+    MoreFastTime: 5685.657784
+    MoreSlowerTime: 12107.793308
+    Average: 9456.273880
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000028
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_BAIXA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 23948.091896
+    SumOfTimes: 29620.239749
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4781.793234
-    MoreSlowerTime: 9776.896447
-    Average: 7982.697299
+    MoreFastTime: 6112.495025
+    MoreSlowerTime: 12227.215664
+    Average: 9873.413250
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000032
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 24026.361406
+    SumOfTimes: 28588.916125
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4982.581086
-    MoreSlowerTime: 9748.472271
-    Average: 8008.787135
+    MoreFastTime: 5700.350590
+    MoreSlowerTime: 12217.779514
+    Average: 9529.638708
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000036
     Name: _SYSTEM_ROTULOS_1-011111111_130X200_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 24056.226028
+    SumOfTimes: 31119.626461
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4927.260343
-    MoreSlowerTime: 10083.760544
-    Average: 8018.742009
+    MoreFastTime: 5902.159206
+    MoreSlowerTime: 14076.421832
+    Average: 10373.208820
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000040
     Name: _SYSTEM_ROTULOS_1-011111111_130X200_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 23652.199856
+    SumOfTimes: 28628.507184
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4826.748129
-    MoreSlowerTime: 10139.312248
-    Average: 7884.066619
+    MoreFastTime: 6198.686263
+    MoreSlowerTime: 12217.995581
+    Average: 9542.835728
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000044
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 28393.901536
+    SumOfTimes: 32748.794297
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 3___TST_CPYS2TZIP
-    MoreFastTime: 4873.739669
-    MoreSlowerTime: 12209.742306
-    Average: 9464.633845
+    MoreFastTime: 5843.020789
+    MoreSlowerTime: 13755.585395
+    Average: 10916.264766
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000048
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 27190.848277
+    SumOfTimes: 34037.390837
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5116.309770
-    MoreSlowerTime: 12248.077003
-    Average: 9063.616092
+    MoreFastTime: 6293.180092
+    MoreSlowerTime: 15904.883605
+    Average: 11345.796946
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000052
     Name: _SYSTEM_ROTULOS_3-033333333_130X300_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 26777.165981
+    SumOfTimes: 34112.869786
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5185.056947
-    MoreSlowerTime: 11747.986181
-    Average: 8925.721994
+    MoreFastTime: 6333.354411
+    MoreSlowerTime: 16358.516583
+    Average: 11370.956595
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000056
     Name: _SYSTEM_ROTULOS_3-033333333_130X300_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 28495.281192
+    SumOfTimes: 32759.144521
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 6013.629805
-    MoreSlowerTime: 12450.888805
-    Average: 9498.427064
+    MoreFastTime: 5965.375066
+    MoreSlowerTime: 14607.551362
+    Average: 10919.714840
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000060
     Name: _SYSTEM_ROTULOS_3-033333333_130X300_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 30060.082032
+    SumOfTimes: 37602.991491
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5185.702950
-    MoreSlowerTime: 12670.304569
-    Average: 10020.027344
+    MoreFastTime: 6075.434759
+    MoreSlowerTime: 15809.732296
+    Average: 12534.330497
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000064
     Name: _SYSTEM_ROTULOS_3-033333333_130X300_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 29783.852586
+    SumOfTimes: 36635.143251
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5180.772470
-    MoreSlowerTime: 12326.315019
-    Average: 9927.950862
+    MoreFastTime: 6200.979748
+    MoreSlowerTime: 15701.953637
+    Average: 12211.714417
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000068
     Name: _SYSTEM_ROTULOS_5-055555555_70X113_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 28308.358500
+    SumOfTimes: 33011.223526
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5266.276444
-    MoreSlowerTime: 12779.262930
-    Average: 9436.119500
+    MoreFastTime: 6169.814573
+    MoreSlowerTime: 15108.800400
+    Average: 11003.741175
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000072
     Name: _SYSTEM_ROTULOS_5-055555555_70X113_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 28274.699398
+    SumOfTimes: 34072.475493
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5372.632234
-    MoreSlowerTime: 12559.204336
-    Average: 9424.899799
+    MoreFastTime: 5965.721017
+    MoreSlowerTime: 16530.376347
+    Average: 11357.491831
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000076
     Name: _SYSTEM_ROTULOS_5-055555555_70X113_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 31869.880980
+    SumOfTimes: 35809.298453
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5481.241470
-    MoreSlowerTime: 13296.756796
-    Average: 10623.293660
+    MoreFastTime: 5919.687496
+    MoreSlowerTime: 15236.038770
+    Average: 11936.432818
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000080
     Name: _SYSTEM_ROTULOS_5-055555555_70X113_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 31511.535785
+    SumOfTimes: 36390.329716
     MoreFast: 1___TST_FILECOPY
-    MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5575.679635
-    MoreSlowerTime: 13109.269644
-    Average: 10503.845262
+    MoreSlower: 3___TST_CPYS2TZIP
+    MoreFastTime: 5995.374211
+    MoreSlowerTime: 15224.211477
+    Average: 12130.109905
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000084
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 32417.614229
+    SumOfTimes: 37312.268460
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 5564.606502
-    MoreSlowerTime: 13838.560041
-    Average: 10805.871410
+    MoreFastTime: 6549.598018
+    MoreSlowerTime: 16093.180825
+    Average: 12437.422820
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000088
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 35008.877061
+    SumOfTimes: 37463.722701
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 8467.763034
-    MoreSlowerTime: 13902.551056
-    Average: 11669.625687
+    MoreFastTime: 6435.531195
+    MoreSlowerTime: 16013.334147
+    Average: 12487.907567
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000092
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_ALTA_BMP
     NumberOfIntervals: 3
-    SumOfTimes: 29543.146034
+    SumOfTimes: 37056.277543
     MoreFast: 3___TST_CPYS2TZIP
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 4280.461676
-    MoreSlowerTime: 18608.673202
-    Average: 9847.715345
+    MoreFastTime: 6435.530951
+    MoreSlowerTime: 23233.147866
+    Average: 12352.092514
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000096
     Name: _SYSTEM_ROTULOS_4-044444444_130X160_BMP
     NumberOfIntervals: 3
-    SumOfTimes: 41446.141189
-    MoreFast: 1___TST_FILECOPY
+    SumOfTimes: 40776.339555
+    MoreFast: 3___TST_CPYS2TZIP
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 6529.959106
-    MoreSlowerTime: 27889.206411
-    Average: 13815.380396
+    MoreFastTime: 4919.642574
+    MoreSlowerTime: 26171.211074
+    Average: 13592.113185
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000100
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 56636.420123
+    SumOfTimes: 50932.594636
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 13092.263333
-    MoreSlowerTime: 27451.291642
-    Average: 18878.806708
+    MoreFastTime: 8451.959619
+    MoreSlowerTime: 22528.438335
+    Average: 16977.531545
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000104
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 42807.938818
+    SumOfTimes: 48527.493744
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 7203.978076
-    MoreSlowerTime: 19388.315775
-    Average: 14269.312939
+    MoreFastTime: 7502.945592
+    MoreSlowerTime: 21807.262540
+    Average: 16175.831248
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000108
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 44918.370098
+    SumOfTimes: 50949.399285
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 6795.297306
-    MoreSlowerTime: 22844.347710
-    Average: 14972.790033
+    MoreFastTime: 8092.914220
+    MoreSlowerTime: 24980.966565
+    Average: 16983.133095
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000112
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_ALTA_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 43229.721066
+    SumOfTimes: 50853.647627
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 6999.182851
-    MoreSlowerTime: 20481.966333
-    Average: 14409.907022
+    MoreFastTime: 8169.309196
+    MoreSlowerTime: 24045.102113
+    Average: 16951.215876
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000116
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 47106.781089
+    SumOfTimes: 55136.445513
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 7012.732089
-    MoreSlowerTime: 23250.681527
-    Average: 15702.260363
+    MoreFastTime: 8779.937011
+    MoreSlowerTime: 24389.522333
+    Average: 18378.815171
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000120
     Name: _SYSTEM_ROTULOS_2-022222222_130X115_V2_ALTA_JPG
     NumberOfIntervals: 3
-    SumOfTimes: 47102.539094
+    SumOfTimes: 57323.607954
     MoreFast: 1___TST_FILECOPY
     MoreSlower: 2___TST_CPYS2T
-    MoreFastTime: 7044.691463
-    MoreSlowerTime: 21278.329814
-    Average: 15700.846365
+    MoreFastTime: 8190.918346
+    MoreSlowerTime: 26961.885277
+    Average: 19107.869318
     ------------------------------------------------------------------------------------
     ------------------------------------------------------------------------------------
     ID: 000000000000124
     Name: _SYSTEM_ROTULOS_A-033333333_PNG
     NumberOfIntervals: 3
-    SumOfTimes: 64901.142836
+    SumOfTimes: 80275.882274
     MoreFast: 1___TST_FILECOPY
-    MoreSlower: 3___TST_CPYS2TZIP
-    MoreFastTime: 7997.864720
-    MoreSlowerTime: 28873.530194
-    Average: 21633.714279
+    MoreSlower: 2___TST_CPYS2T
+    MoreFastTime: 10122.786411
+    MoreSlowerTime: 37081.769553
+    Average: 26758.627425
     ------------------------------------------------------------------------------------
 ====================================================================================
 
